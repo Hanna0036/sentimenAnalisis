@@ -1,0 +1,1512 @@
+Comment
+
+"Buat kawan-kawan yang masih agak bingung atau asingdengan beberapa istilah yang dipakai di video ini, mungkin komentar ini bisa sedikit membantu:
+
+1. Artificial  Intelligent
+Sesuai artinya, artificial=buatan, intelligent=buatan, jadi sebuah algoritma yang dibuat manusia yang mampu berfikir layaknya manusia.
+
+2. Algoritma
+Sekumpulan instruksi atau perintah-perintah yang ditulis secara khusus dan sistematis untuk tujuan tertentu (bisanya dalam bentuk kode dalam sebuah bahasa pemrogaman)
+
+3. Machine Learning
+Sebuah algortima yang dibuat sehingga sebuah ""mesin"" dapat belajar, baik secara supervised, rainforced atau unsupervised. Machine Learning sendiri merupakan salah satu dari cabang AI
+
+4. Unsupervised Machine Learning
+Dalam hal cara mesin belajar, ada 3 cara, supervised (diajari), reinforced (trial and error) atau unsupervised (tidak diajari). Dalam kasus ini ChatGPT masuk kedalam jenis unsupervised machine learning. Artinya, dia bisa menjadi jauh lebih pintar tanpa perlu campur tangan manusia. Tapi tentu dia memiliki batasannya, karna algoritma yang dibuat sudah terkhusus kepada jenis text, bukan yang lain. Dan sebuah ML akan jauh lebih efektif jika tugas yang diberikan spesifik."
+terimakasih penjelasannya. sangat membantu
+Jelas
+TOLONG DI PIN
+Ralat bang poin ke 4 chat gpt itu fine tuning supervised learning bukan unsupervised di podcastnya Lex Friedman foundernya OpenAI wojciech zaremba bilang chat gpt di training pakai fine tuning dataset di closed environment alias gak terkoneksi ke internet artinya chat gpt itu di training pakai data yg udah bener bener di seleksi dulu, makanya hasilnya bisa lebih maksimal dibandingkan project AI lain yg dataset nya gak di seleksi dulu alias unsupervised.
+Thanks untuk additional infonya mas
+ @itsvan5791  thanks bro koreksinya, di salah satu literasi yang gua baca masuknya unsupervised soalnya
+ @IndrawanNugroho  My Pleasure Pak Indrawan :)
+"Saya sangat suka komentar komentar di sini. tidak ada yang ""menggoblokan"" komentar orang lain. Bersedia di koreksi jika ada informasi yang kurang pas. Saling membangun, Saling respect, dan bersedia membuka kemngkinan salah. Good Vibes!"
+ @fadhlurrohmanfaqih480  kalau pakai fine tuning dataset udah pasti supervised bang karena datasetnya harus di ranking dulu satu satu sama developernya, hasilnya bisa lebih akurat tapi minusnya jadi kurang update karena datasetnya harus di pilah dulu satu satu.
+"Aku baru saja tanya kepada ChatGPT. Tak usah khawatir. ChatGPT itu dikategori pertama. 
+
+ChatGPT termasuk model AI jenis apa? "
+Jgn senang dulu, dimasa depan AI pasti akan tertawa menonton ketakutan kita sekarang terhadap kedatangan mereka
+tinggal pakai aja, tidak perlu semua tahu bagaimana cara membangunnya
+"KOMENTAR PAKAI CHATGPT:
+I. Artificial Intelligence (AI)
+
+
+
+AI adalah teknologi komputer yang dapat meniru kemampuan manusia, seperti berpikir, belajar, dan memecahkan masalah."
+2. algorithma itu bukan perintah, cuma design berupa draft gambar rumah (kalau di analogikan dalam engineering), sedangkan instruksi itu di sebut command (command terbagi 2 secara garis besar, ada machine language dan high level language atau human recognizable language), kumpulan instruksi/command di sebut aplikasi/script. sederhananya algorithm itu ide, sedangkan kumpulan dari instruksi itu implementasi dari ide tadi yg dituangkan dalam salah satu bahasa pemrograman.
+"Understandable if you could generate definitions of a subject in real time now that you're connected with AI the so called ""ChatGpt."""
+Siap noted 
+Intelligence = kecerdasan
+Terimakasih banyak pakk
+ @IndrawanNugroho  woi  Elon mas sudah keluar open ai pas 2018
+Luar biasa pak dampak chatGPT ini bagi mahasiswa, saya rasa dunia pendidikan akan dipaksa berkembang ke arah yang tidak pernah kita pikirkan sebelumnya. Proses pendidikan konvensional bakal tidak relevan lagi setelah adanya chatGPT ini
+"Benar sekali, beberapa tahun kedepan dengan kombinasi Metaverse+Blockchain+AI kita akan melihat model pembelajaran yang baru, yang sangat berbeda dengan zaman sekarang. ""Dunia nyata"" kita maybe akan berpindah tempat, berpindah menuju dunia tanpa batas dan dunia kita sekarang akan menjadi ""offline"" world. Mungkin ini terlihat berlebihan, tapi ini nyata terjadi dan semakin dekat.. karena pekerjaan saya sekarang sedang mengembangkan sektor tersebut "
+Saya tertarik dengan pendapat dosen computer science saya tentang hal ini
+ @imamupayanto  maksudnya offline world apaan bro
+Benar. Cocoknya sekarang lebih ke belajar analisis, bukan hapalan lagi.
+ @imamupayanto  tidak mungkin secara cepat terjadi. Perkembangan teknologi tidak beriringan dengan pertumbuhan ekonomi akan menyebabkan ketimpangan kelas sosial yang luar biasa.
+ @rifqil5633  Dunia kita sekarang bro, real lifenya berpidah tempat ke online. Karena metaverse (XR secara keseluruhan) itu bakal menjadi teknologi yang akan kita pakai sehari hari. Harga devicenya akan semakin terjangkau. Oiya dengan bantuan AI juga, bayangkan lebih mahal mana membuat AI dengan tubuh nyata di offline atau di online (metaverse)? tentunya yang virtual lebih murah kan? tinggal buat avatar dan masukin otaknya pakai AI.. jadi deh temen virtual, hehe
+ @kingki1953  yup.. maybe next 5-10 years dengan melihat asistensi dari AI ini, kebetulan ini project yg sedang saya kerjakan juga.
+Y
+ @imamupayanto  alumni apa kak
+" @kingki1953  We'll see.. sampai sekarang masih belum ada pemikiran adanya urgensi untuk segera pindah ke ""metaverse"", kalau augmented reality masih ada real use case nya lah karena masih di dunia nyata, tapi pindah ke virtual world? Hmm i'm a bit skeptical "
+Konvensional itu apa bang?
+Jadi tantangan serius bagi periset untuk Mengembangkan riset murni tanpa bantuan AI
+kedepan ujian di pc tapi offline jadinya ya gak bisa contek
+ @imamupayanto    itu terlalu jauh.  Dunia kita yg real ya tetep yang utama. Memangnya MENANAM PADI itu di dunia online???   Manusia butuh makan yg hanya tersedia melalu dunia nyata
+Yang takutnya CHAT GPT ini bisa bikin skripsi kita dalam hitungan detik saja tanpa plagiarisme wkwk
+ @imamupayanto  ya ga bisa smw selesai sama chat gpt bro. Poverty, inequality, climate change sampai orang mabuk agama itu semua diluar sana bro, offline word. Realitas masalah dunia yang jauh lebih rumit. Emang bisa diselesaikan sama chat gpt?
+ @hak8474  maaf saya tidak berkomentar seperti itu, coba anda cek. Saya hanya memandang dari industri pendidikan yg terdistrupsi AI+Blockchaim+Metaverse 
+ @naulirisetya1705  Benar banget kebutuhan dunia nyata tidak akan tergantikan seperti industri pangan, namun industri lain seperti hiburan, pendidikan, pariwisata, dll, besar kemungkinan akan terdistrupsi.
+Terimakasih atas penjelasannya pak indrawan, disampaikan dengan bahasa yg gampang dipahami dan berbobot 
+ @naulirisetya1705  tidak menutup kemungkinan menanam padi kedepannya akan dilakukan oleh traktor yang sudah menggunakan ai, bahkan tanpa driver manusia
+ @imamupayanto  waduh wajib koleksi token kripto yg ada hubungannya dengan ini nih
+Sebenarnya apa yang diterapkan pak Nadiem sekarang udah mengarah kesana. Memangkas materi2 yang kebanyakan hapalan dan gak penting, adanya project base learning yang lebih mengasah analytical dan critical thinking. Tinggal penerapan dan pengembagannya aja gimana karena masih banyak pelaku pendidikan yang kolot dan oldschool
+" @naulirisetya1705  thn 40an ditemukan cikal bakal komputer, 
+90an kemajuan komputer, 
+2000an merebak internet (eksklusif krn mahal) & Handphone, 
+2010 mulai internet masuk setiap rumah krn murah& semua org punya HP, "
+" @azmihakam  bukannya malah kebalik bro? 
+Faktanya malah pelajaran seperti PPKN sdh dihapuskan, pendidika. agama wkt itu sempt mau dikurangi lg jam pelajarannya, pelajaran ttg budaya ga tau sih aku....
+
+Malh menurutku mendikbud mengejar ‘kemajuan’ tp meninggalkan ‘dasar’.."
+ @alindy5981  serius ppkn di hapus. Makin enak aja pejabat dia ngibul aja rakyatnya percaya.
+Memang bisa berubah, tetapi tidak drastis, karena chatGPT tidak bisa melakukan kalkulasi yg komplek
+Guru dan dosen, akan pusing seribu kali, pelajaran science akan smua dlukan scara ortodidak, sdangkan pngajar dlm hal real yg msih ada yaitu intruktur olahraga fisik masih laku wkwk
+ @aleandromeda  mohon maaf saya tidak setuju 100%, karena kebetulan saya seorang dosen sekaligus mhs doktoral, saya juga pengguna chatGPT, sehingga saya tau kelemahan chatGPT, dan saya tau bagaimana menanggulanginya
+ @ridhohen1009  ya kagak lah. Di negara maju sendiri peran tenaga pendidik itu penting. ChatGPT itu sekedar mesin, bukan problem solving seperti jalan pikiran manusia.
+ @naulirisetya1705  benar karena kembali ke esensi hidup manusia itu tidak lepas dari aktivitas fisik manusia itu sendiri. Secara mudahnya kaitan manusia dengan alam (dunia nyata)
+ @xperianeoD  betul, dinegara maju tenaga pendidik itu penting banget, bayarannya gede.
+ini ibarat www di tahun 1995-2000 ya?l
+Sebelum ada gpt pun sistem pendidikan konvensional saat in ud ga relevan dgn zaman
+"saya menyambut baik adanya perubahan, di mana kita di paksa bersaing lebih pintar lagi seperti yang anda katakan ""melek teknologi"" dosen maupun mahasiswa. sekali lagi saya berterima kasih kepada samuel H. Altman selaku CEO dari OpenAI yang telah memudahkan dan membuat jadi lebih produktif lagi aktifitas belajar dengan chatGPT"
+"bener banget, saya kelas 10 seminggu lalu ditugaskan bikin proposal buat projek, pas saya coba tinggal copas copas aja.. semalem doang jadi dah tu proposal. guru saya juga bingung knp bisa cepet gitu, alhasil saya bilang sesuai kenyataan, saya bilang saya buatnya pake ai di chat gpt. disitu saya ngira guru saya bakal nerima"" aja, ternyata malah ngomel"" dan ngelarang saya buat make 'dukun' itu, yaaa guru saya bilang dukun karna dia umur 50an. disini saya jadi mikir, teknologi ini bagus apa ngga karna kalo dibilang positif juga ai ini bisa nyelesain tugas dengan cepat, negatifnya saya gabisa berlatih menyusun kata kata lagi kalo dalam kasus bikin proposal spt di atas"
+ @imamupayanto  mimpi mimpi laah
+ @imamupayanto  mimpi mimpi laah
+ @erikderikhac5274  mimpi mimpi lah
+ @aleandromeda  masalahnya teknologi AI itu menuntut kita untuk lebih banyak membaca, sedangkan masyarakat kita malas membaca maunya di dongengin mulu.
+ @imamupayanto  blockchain is a scam, sesuatu yg minim regulasi tidak akan berhasil
+Padahal mah machine learning biasa ,chat gpt dri dulu juga udh ada . cuma emg era sekarang apa2 gampang viral
+ @ridhohen1009  yang akan tergantikan adalah guru yang hanya dilevel sekedar menyampaikan informasi. Yang dimana saya rasa banyak (CMIIW sy ga punya field insight dan ga punya data). Guru guru ini akan dipaksa untuk naik level atau tergantikan.
+ @biman1422  nah ini makanya role guru bisa lebih seperti pelatih bukan hanya penyampai informasi. Tugas guru jadi lebih esensial. Dia harus mengarahkan muridnya untuk paham metode. Dalam kasus ini ya pointnya memang untuk latihan. Ibaratnya kalaupun dimasa depan menggunakan alat bantu kemampuan dasarnya udah punya.
+ @entertainmentnncrawler2087  setuju banget, yg hanya sekedar menyampaiakan yg sudah dipelajari dahulu kala dan ga mau berkembang
+Sory bro,menurut saya,pembelajaran  secara konvensional akan selalu relevan selama pembangunan pendidikan belum merata,kenapa demikian?saya ngajar teknik,tapi siswa yang diajarkan bener2 ga bisa mikir 
+" @imamupayanto  sorry bro,selama pembangunan pendidikan merata,pendidikan konvensional adalah yang terbaik,kenapa demikian?
+
+Sampai sekarang,bahkan siswa masih belum bisa untuk menjalankan kegiatan yang sifatnya HOTS,dikelas saya aja hanya kisaran 10% yang otakny bener2 dipakek"
+" @imamupayanto  menurut saya chat gpt ai itu overrated dan overhyped.
+mereka tidak bisa menyamai kemampuan otak manusia dalam berinovasi."
+ @abeltheboys3136  wah menarik nih. Bro, sharing dong gimana caranya ngajarin orang supaya bisa mikir? Karena memang mikir/HOTS ini pre requisite untuk bisa memanfaatkan teknologi ini.
+" @lifeisneverthesame910  kalo oponi gw bro,kalo salah bisa koreksi
+
+Hal simpel aja,baby boomers,gw pernah cerita ama mereka,tapi seringny ga didenger opini gw,udah jalan lama,tapi baru didenger"
+ @entertainmentnncrawler2087  cara mudah untuk berpikir adalah dg mengajukan pertanyaan. selalu punya rasa ingin tahu.
+" @naulirisetya1705  konsepnya egak gitu bos
+Beda konsep ini mah 
+Kalau nanam padi ya tetap lah
+Ini kan basisnya teknologi"
+ @imamupayanto  bener konsep ini di teknologi dan pendidikan
+Kayak JARVIS nya TONY STARK
+Begitu chat gpt masuk data base scopus dan web of science maka penelitian metode literature review menjadi otomatis
+Yesss!
+"INI KOMENTAR BY CHATGPT:
+Saya setuju bahwa ChatGPT memiliki dampak yang luar biasa pada dunia pendidikan dan dapat memaksa pengembangan pendidikan ke arah yang tidak pernah kita pikirkan sebelumnya. Sebagai mesin kecerdasan buatan yang mampu memahami pertanyaan dan menghasilkan tanggapan, ChatGPT dapat membantu mahasiswa dalam belajar dan mengembangkan kemampuan berpikir kritis dan kreatif."
+ @imamupayanto  sayang nya para guru malah tidak mampu mengikuti perkembangan Jaman
+Perkembangan teknologi itu seharusnya hanya dijadikan alat saja tpi jgn sampai berlebihan, gunakan sewajarnya, lagi pula kecerdasan buatan itu ciptaan manusia, kita butuh AI tpi jgn lupa kalo kita makhluk sosial
+ @ikengikengKimoshi  tengah tahun 2022 smpet dnger Google lagi ngembangin semacam  sertifikasi via online platform seperti yg anda maksudkan, katanya si buat solusi kaum-kaum yg ga mampu kuliah elit mahal di kampus smacem Harvard, dkk.
+ @biman1422  pertanyaannya, apakah km paham sama ide yg ada di proposal hasil  chatGPT mu??? Biasanya ada proposal, ada presentasi, ada pembuktian, pemaparan dr si kreator/inisiator/manusia yg bikin proposalnya.
+ @abeltheboys3136  emang. Jangankan di daerah,  bbrapa anak2 ortu elit di Jakarta  aja gw langsung ksh tugas analisis, maaf ya, cuma bs ngeluh planga plongo, karena dasar ilmunya masih banyak gap nya, terutama anak2 yg LITERASI RENDAH dan zaman now MAKIN BANYAK apalagi smenjak ada TIKTOK n IG, focus span anak2 jd makin pendek n MALES BACA & SHALLOW THINKING.
+ @fimul5862  nah,dulu emang kayak gini,tapi ga sebanyak ini juga,semenjak lepas covid,anak2 benar2 kacau
+ @ikengikengKimoshi  Lebih jauh dari itu, bahkan lebih mudah mendidik AI daripada mendidik manusia. Untuk mendidik 1 manusia butuh 4 tahun, dengan AI seperti chat gpt, tinggal di kloning dan memiliki kecerdasn yang sama, katakan butuh waktu hanya 1 hari.
+ @imamupayanto  metaverse Masih mentah, secara bisnis Masih rugi besar, belum profitable
+ @naulirisetya1705  pil karbohidrat dan protein tinggi mulai beredar
+ @alindy5981  pc ditinggalkan, masih banyak di dunia barat, karena komponen di sana harganya lebih manuk akal
+ @xperianeoD  ini baru chat gpt 3, kl udh versi 5? 12? dalam 10 tahun
+ @biman1422  njir, teknologi dibilang dukun
+ @entertainmentnncrawler2087  yg boomer tidak mau belajar gimana mau paham
+ @teknikitchannel8898  lah sekarang kita bisa dibilang banyak tidak bisa apa apa, udah ketergantungan internet,
+GLCH defi layer 1 mainnet 2023, max supply 88jt
+ @lerenggunung753  bagaimana mereka tidak ketinggalan zaman fasilitasnya juga terbatas. Masalah kesejahteraan juga menjadi salah satu penyebab banyak guru kita yang tidak fokus mendidik dan mengembangkan metode pengajaran dan pendidikannya karena uang gaji yang bahkan di bawah UMR.
+Kita kembali ke pendidikan syariah yg tanpa riba
+ @ufcfantasy4929  kau pikir semua orang Muslim?
+pendidikan konvensional akan terus relevan untuk para Normie Neurotypical yang haus akan pERhatian
+ @imamupayanto  industri Pangan gimana ..itu Traktor . Alat tanam padi ..panen Padi dll..di susupi Chip ke dalam kerja seperti Robot OTOMATIS...gimana
+ @piplupempoleon4225  gap boomer dengan era sekarang . Udah kejauhan. Kita mungkin besok 10-30 taun Lagi juga bakal jauh ketinggalan dari bocil2
+ @imamupayanto Mas,.saya setuju dg pendapat bahwa dg teknologi akan merubah peradaban manusia kedepannya.  Tapi saya juga melihat bahwa dampaknya tetap akan menimbulkan ketimpangan secara sosial.
+ @imamupayanto Contohnya teknologi Metaverse yg memungkin setiap orang mampu memiliki harta di dunia maya & semua kembali kepada manusia yg memiliki harta/uang banyak di dunia nyata yg mampu melakukan hal tsb.
+ @imamupayanto  itu artinya profesi guru akan hilang, seiring ChatGPT dan AI berkembang pesat. Semakin ngeri perkembangan teknologi saat ini 
+Sebagai seorang yang berkecimpung di dunia IT dan bahasa pemograman, saya melihat chat GPT ini sebagai efisiensi waktu ketika kerja. We don't have to make something from scratch. Chat GPT bisa digunakan untuk membuat sebuat template website dengan bahasa pemograman yang dia pahami, setelah itu, kita bisa mengedit nya tanpa harus membuat dari 0.
+"Menjelajahi Era AI: Pidato Inspiratif dari Robot AI Chat GPT - Artificial Intelligence
+
+
+
+https://www.youtube.com/watch?v=dWsIA2aOstA video dari sudut pandang robot
+
+Semoga bisa jadi Insight menarik."
+"Jujur saja sebagai developer web, kehadiran ChatGPT sangat-sangat membantu sekali. Ga perlu ribet tanya terus scroll"" ke bawah untuk nyari jawaban di forum"". Cukup tanya saja permasalahannya secara detail dengan bahasa pemorgraman yang digunakan, ChatGPT langsung jawab ke pointnya. Tapi tetap menurut saya untuk review mungkin pengalaman manusia tetap dibutuhkan."
+Ya kdepanny bkin aplikasi jd mudah dan tdk prlu bnyk org. AI Bisa jd bkin ongkos programmer jd murah. 
+ @ariefbudiman6167  iya bang jdi mudah sekali, cmn tetep msh ada upaya dri proses mikirnya itu (from scratch) krna ga smua org kuat sma problem solvingnya, jdi msh ada nilainya lah ya hehe 
+Lu nanya pakr bahasa apa bang?
+ @belajaringgris6485  bhs inggris, knapa bang?
+ @WillyReceh  oh ok bg gua kira harus pake bahasa pemograman yg ribet atau kaya 01101 gitu
+ @belajaringgris6485  kaga bang, klo nanya ke chatgpt nya mah pke bhs inggris, cmn klo mu nanya kaya optimalin koding bru dijabarin pke bhs pemrogramannya kya php, c++, c# atau python. Example, write a simple keylogger with pyhton nnti dia bkal ngoding sendirinya.
+" @WillyReceh  boleh bagi Gk bang? Pengalaman programmer.
+
+Soalnya saya masih belajar nih"
+"Tentunya chatGPT gak akan jawab:
+1. Udah search pojok kanan atas belum?
+2. Sudah coba googling dan stakeover belum
+3. Kalau sudah copas codingan lu"
+"Bang, menurut lu pasar untuk programmer junior gmna kedepan nya
+
+Gw rasa kayanya akan menghilang, dan meskipun ada pasti gaji akan sangat jauh"
+ @putrisinuar  yah nmanya jg profesi, psti bkal brsaing. Jd mau ga mau hrus trus up skill n' pengalaman. Klo krja smisal di dicoding, itu kryawannya dsuruh ambil kelas di coursera buat ya yg tdi ane singgung di atas.
+" @Indonesia1persen  jngan mudah pusing bang, klo stuck ada error. Mayan tuh klo error atau algoritmanya ga sesuai hrus nyari"" thread atau nanya di forum. Trs bisa baca algoritmanya, bsa disisipin atau kaga dngan kodingan kita yg sdng msalah. Intinya paham dlu logika & algoritma, mu nnti bahasa pemrograman yg dipkenya apa, ga trlalu susah buat nyernanya. Krna yg susah itu nerapin alur bisnis manusia ke komputer (algorithm)"
+Saya tau Open AI dari  Dota 2, pada tahun 2017 dimana mereka membuat Ai yang mampu bersaing dengan pro team. Sebagai salah satu game tercomplex, pembuatan AI untuk dota2 sangatlah rumit. Pada tahun tersebut Open Ai masih kalah dengan pro team, namun pada tahun 2019, mereka mampu menyaingi pro team terbaik dunia. Disaat itu saya yakin bahwa Open AI akan mengeluarkan hal yang akan menggemparkan dunia dalam waktu dekat, dan terbuktilah tahun ini dan saya tidak begitu terkejut dengan chatGPT yang dibuat oleh OpenAI melihat track record mereka.
+Sependapat pak, chatGPT ini menjadi keuntungan saya juga sebagai mahasiswa dan peneliti di bidang AI, kadang saya selalu menanyakan penerapan bidang AI di berbagai bidang sains spesifik contohnya penerapan AI di teknologi pangan, biomedis, dan bahkan nuklir. Karena chatGPT inilah kemampuan berpikir inovatif saya semakin maju untuk menerapkan dan membuat AI di berbagai bidang sains seperti biologi, kimia dan fisika.
+"baru coba"" kemarin dan hasilnya emang agak ngeri, sebagai akademisi saya bisa berdiskusi mulai dari membandingkan berbagai teknis analisa statistik dan menentukan metoda mana yg cocok dengan riset kita, hingga mengimprove gaya penulisan. tapi satu hal yg perlu di ingat dalam konteks penelitian jgn lupa utk selalu meng cross-check dengan jurnal ilmiah."
+Apa bisa sampai ke ide penelitian (research novelty) mas?
+ @stefanuswisnu1895   tidak spesifik kebaharuan tapi lebih kepada apa yang bisa ditingkatkan dari riset yang sudah ada, saya sampaikan satu topik dan saya minta jelaskan riset apa saja yg sudah ada, lalu saya tanya apakah yg bisa saya improve dan dia jelaskan beberapa sudut pandang yg bisa saya teliti,  dia juga bisa merekomendasikan judul penelitian, mengidentifikasi manfaat, rumusan masalah bahkan membuat latar belakang dari topik yang kita sampaikan
+ @budipermana8862  bisa diakses lewat open ai, ketik aja di browser
+Link bang buat chatgpt ap aj
+ @DymasJuhara  ini bang langsung aja disikat cobain
+ @DymasJuhara  buat akun dulu jangan lupa bang
+ @jagung9137  ini apa yg mana
+ @DymasJuhara  lho astaga kok dia ga muncul yaa
+ @stefanuswisnu1895  mungkin bisa tapi lebih baik jangan, alat detector chat gpt itu udah banyak bisa berabe kalau ketahuan bikin thesis pakai chat gpt, lagian dataset chat gpt itu fine tuning di closed environment artinya data yg kepakai cuma yg udah bener bener di pilih sama developernya gak up to date karena kalau ga salah cuma sampai data tahun 2021, beda sama AInya Google yg langsung connect ke internet yg bisa update dataset terbaru.
+ @linus4108  Karena chat gpt itu fine tuning di closed environment gak terkoneksi ke internet datasetnya cuma sampe 2020/2021 bang, gak up to date data terbaru kayak google, tiati.
+ @itsvan5791  klo ga update knp di content diblg pakai aplikasi plagiarisme, turnitin,  msh bisa tembus ya? Mohon infonya...
+ @stefanuswisnu1895  kagak bang, di bilang tembus itu tembusnya berapa persen? Kalau di bawah 15% sih oke cuma masalahnya di indonesia jarang ada kampus yg bener bener ngecek plagiarism paling kampus gede doang itupun gak semua.
+ @itsvan5791  yg blg seorang akademisi...jdi seenggaknya tau berapa persen batasannya...klo udh S2 - S3 dikampus2 papan atas itu rata2 udh wajib turnitin...
+ @stefanuswisnu1895  gua ngikutin kata wojciech zaremba co founder openAI & david patterson dosen computer science di Berkeley university pemenang turring award aja bang kalau chat gpt itu kedetect plagiarism dan sangat gak di saranin di pakai buat bikin tugas kuliah apalagi thesis, karena secanggih canggihnya AI & se update updatenya dataset AI itu hasilnya cuma pengulangan aja bukan untuk nyiptain sesuatu yg baru.
+ @itsvan5791  oke thanks buat info nya bro...
+thanks untuk infonya ya
+" @itsvan5791  betul, sekali lagi seperti yang saya sampaikan harus dicross check dengan jurnal terbaru, karena chat GPT sendiri sudah menyatakan bahwa dia tidak dapat memberikan darimana data/argumen dia ambil, sehingga harus selalu di cross check. Yang perlu di ingat adalah alasan dosen/guru atau kita sebagai seorang peneliti melakukan riset adalah untuk memperkaya ilmu pengetahuan, kalau tugas"" tsb anda serahkan ke sistem AI ya anda lulus tp lulus kosong, riset juga jadi tidak reliable dan anda tidak mendapatkan ilmu apapun"
+ @stefanuswisnu1895   JANGAN  gunakan chat GPT untuk mengerjakan penelitian bahkan tugas sekalipun, jika anda butuh untuk sekedar baca ya silahkan, ingat tujuan kita sebagai pelajar adalah utk mendapatkan ilmu dengan salah satunya melatih kemampuan berpikir dalam menyelesaikan tugas yang sudah diberikan, selalu landaskan pada jurnal dan sumber scientific yang bisa dipertanggung jawabkan. Tidak menjadi persoalan apakah kampus kita menerapkan Turnitin atau tidak , tapi sebaiknya sikap jujur dan integritas kita terapkan sejak awal
+ @itsvan5791  soalnya dosen dan profesornya saja melakukan itu.
+" @linus4108  bahkan dosen menggunakan blog internet untuk dijadikan buku padahal seorang professor.
+
+Dosen juga banyak yg sampah, gelar professor sekaligus ga jamin orang itu berkualitas,"
+mungkin saja chatGPT akan keren/lebih gila jika ada mode untuk pro research/khusus penelitian ahli (sumber terpercaya) agar mengurangi-menghilangkan sumber abal2.
+ @linus4108  Ya g mungkin jg kita meneliti tp ngambil data dari orang, itu akan ketahuan jg
+GLCH defi layer 1 mainnet 2023, max supply 88jt
+"Gk ada yang perlu dikhawatirkan, yang perlu kita lakukan adalah adaptasi. Dulu awal masuk revolusi industri 3.0 juga banyak yang khawatir karena potensi kehilangan pekerjaan akibat dari tenaga manusia yang diganti serba mesin, lanjut revolusi industri 4.0 yang apa2 serba digital, tapi nyatanya malah membuka peluang baru. Pepatah ""satu pintu tertutup, maka pintu lain terbuka"" masih akan tetap berlaku."
+"Yang khawatir ya generasi2 tua dan generasi yang ogah beradaptasi.
+Kayak tukang delman yang kegusur taksi kemudian kegeser taksi online..."
+Yakin?? Sepertinya untuk yg sekarang ini lompatannya lbh jauh lagi. Yg terdisrupsi bukan lagi jenis pekerjaan level bawah lagi tapi lbh jauh lagi.. di negeri kita mungkin belum begitu terasa tp di negeri2 yg tenaga manusia berharga mahal dan ketidak pedulian sdh jd budaya maka hampir dipastikan banyak sekali jenis pekerjaan akan  digusur habis dlm waktu dekat. Saya dulu pernah kerja di Data center.. thn 2009/2010 itu kita jumlah pekerjanya 1 shift msh 3 orang untuk 1 engineer dan 2 teknisi. Sekarang?? Nyaris habis. Itu Data center nya gede dan berlantai 9 (waktu itu yg isi perangkat baru 3 lantai).. kalau pernah ke surabaya gedungnya ada di jalan rungkut raya samping pabrik sampoerna. Saya sekarang?? Jd birokrat ber NIP bagian teknologi. Dan memulai era digitalisasi disemua bidang pemerintahan. Mungkin kelak jadi saksi rekan2 yg tidak bisa adaptasi tergusur.. kiamat honorer tahun ini n lanjut kiamat ASN..
+" @deppaykurniawan2016  kiamat ASN kayaknya enggak,
+Banyak negara maju juga hati2 dengan ""isu perampingan pegawai pemerintahan""
+
+Malah ada kemungkinan nambah honorer ato personil militer/keamanan buat akomodasi pengangguran."
+ @sn5301679  pertanyaanya negara ini sudah maju atau blm? Indonesia itu teknologi belakangan politik lah yg terdepan
+ @deppaykurniawan2016  Makanya itulah pentingnya adaptasi. Mau gimana pun keadaannya, asalkan bisa adaptasi pasti bakal bertahan. Kalau mau bandingkan sama luar negeri, justru kerjaan di luar negeri lebih universal, banyak loker yang bisa diapply malah mereka cuma fokus ke skill, beda sama Indonesia yang masih pentingin penampilan menarik, umur sekian, tamatan universitas ini-ono. Kendalanya bangsa Indonesia masih banyak yang gk lancar bahasa Inggris, tapi asalkan mau terus belajar, mau pindah ke bidang baru pun gk masalah.
+ @sn5301679  isu sensitif dan sering jadi komoditas politik.. win2 solution nya akhirnya kekurangan PNS di penuhi oleh P3K, hak nya selain untuk masalah pensiun sama dengan PNS tapi namanya bukan pegawai tetap bisa diberhentikan kapan saja saat ada perubahan struktur dan efisiensi kerja. Untuk honorer kan memang hanya tinggal november ini, setelahnya ada yg yg masuk outsourcing dan sebagian kecil masuk P3K sisanya entah.. yg di BUMN kan sdh mulai sejak lama, pegawai2 tetap di pensiunkan dini bagi yg posisinya tidak masuk dalam rencana kerja kedepan. Terus terang honorer itu banyak yg hanya titipan timses dengan kerja ala kadarnya bahkan ada yg ga berguna sama sekali.
+ @vivifitriasari  pernah pengalaman kerja di perusahaan Teknologi?? Indonesia itu sudah melangkah jauh dari yg anda kira. Umur, asal sekolah, penampilan tidak terlalu penting, yg penting skil dan pengalaman atau sertifikasi teknis tertentu sesuai kebutuhan. Saya dulu sewaktu kerja di Provider telco dan Huawei rambutnya gondrong bahkan nyaris sekantor rata2 berambut panjang di bagian kami. Lowongan nya juga jarang di publish terbuka, rata2 beredar di kalangan tertentu saja. Hingga datang sistem yg makin canggih akhirnya yg dulunya perlu jumper kabel fisik misalnya sekarang krn sdh ip base jadi cukup dikerjakan via remote. Saya sendiri dulu di bagian inbuilding engineer di datacenter krn terkena disrupsi maka memilih hengkang jd abdi negara , ada yg pindah ke perusahaan2 Teknologi lain atau malah beralih jd pengusaha. Ada juga yg overseas ke Singapura, Qatar dll.. bahasa Inggris?? Rata2 rekan kami dulu fasih berbahasa Inggris atau kalau saya hanya di basic saja tapi kalau sekedar komunikasi dan menulis email emang pakai Inggris krn rekanan kami banyak kontraktor asing. Atau bahkan kalau anda pernah bekerja di Batam rata2 mereka juga bagus bahasa inggris nya bahkan untuk setingkat operator produksinya krn kebanyakan petingginya orang Singapura, Taiwan ,Jepang atau Eropa jadi susah kalau ga bisa bahasa inggris.
+ @deppaykurniawan2016  Wah kebetulan bgt ya mas, saya pernah kerja di batam, saya tamatan smp dan sma di batam, skrg udh pindah domisili dan switch career ke data analytics, itu sebagai bentuk adaptasi saya yg tdnya lulusan chemical engineering skrg beralih ke teknologi. Jadi kurang lebih apa yang mas bilang sudah saya rasakan.
+ @vivifitriasari  o.. saya dulu pernah gawe di rubycon di kawasan industri muka kuning, krn ga akur sama spv saya pindah ke jkt. Payah memang awal kerja dulu krn ga ngeh sama aksen chinglish nya head section saya dulu. Sayapun sekarang juga sdh ga terlalu masuk ke bidang IT, sekedar admin aplikasi perencanaan dan keuangan juga bbrp aplikasi pemerintah lainnya. Selebihnya saya memilih pertanian organik sbg bentuk adaptasi thd kebutuhan krn ndak ada habisnya kalau ngikutin tren teknologi.
+ @sn5301679  Sorry bro, bukan bermaksud merendahkan, Tetapi, Banyak Orang tua keras kepala Gak mau beradaptasi malah Mau bertahan hidup di zaman perperangan Itu yang mereka sesali sangat miris
+" @deppaykurniawan2016  memang sudah waktunya meng efisiensi jumlah pekerja dg adanya chatGPT
+
+yang diinginkan para pekerja gajinya naik, mintanya UMR naik, dikasih jobdesk lain ngambek, sedangkan pendapatan usaha kelas menengah cukup sulit meningkat..."
+" @vivifitriasari  Khawatir itu amat sangat diperlukan, jika saat ini manusia belum ""tergantikan"" itu karena masih ada rasa kemanusiaan pada manusia. Ambil satu contoh pabrikasi motor honda, untuk berinvestasi robotic itu hanya perlu penjualan hasil kurang dari 1 hari produksi. Dan jika mereka menginginkannya sudah bisa dilakukan beberapa tahun lalu. Ada rasa kemanusian yang menjadi alasan mereka menunda penggunaan robot pada setiap lini perakitan motor."
+Ultron malah menghibur padahal mengerikan
+Sebagai penulis artikel, Saya sepakat teknologi ini bisa sangat membantu kegiatan menulis, namun teknologi ini juga bisa menjadi ancaman jika usernya tidak bijaksana.
+Hebat, teknologi semacam ini mungkin banyak membawa hal positif, namun perlu diingat, terdapat juga masyarakat di dalamnya, yang di indonesia sendiripun sdm masih rendah , malas, dan lemah dalam befikir. Dalam penggunaan teknogi seperti ini, manusia akan lebih nyaman dengan fasilitasnya bukan dengan usaha untuk mencari dan mempelajarinya. Maka dari itu, diharapkan untuk masa mendatang penggunaan ai dibatasi pada kaum kaum pelajar yang masih membutuhkan stimulasi dan pengalaman dalam perkembangan berfikirnya serta usaha untuk mengembangkan karakter yang tidak bisa didapatkan hanya dengan menggunakan teknologi secara instan,.
+Semakin kedepan manusia semakin robotik terdengar tidak baik tapi apadaya manusia melaju pada kecerdasan majemuk sedangkan A.I melaju pada kercerdasan konstan'ta
+"Mantap. Banyak informasi baru, terima kasih pak.
+
+
+
+00:00 - Intro
+
+01:20 - Apa itu ChatGPT?"
+"Sebagai seorang profesional, saya melihat ChatGPT bukan sebagai ancaman, justru dengan bantuan analisanya kita menjadi lebih kreatif. Bahkan berbagai ide cemerlang muncul ketika berdiskusi dengannya. Kuncinya adalah bagaimana kita melihat dan memperlakukan si ChatGPT ini, apakah menganggapnya hanya sebagai ""mesin"" tanya jawab? atau kita anggap dia sebagai teman diskusi yang siap ""membrainstorming"" otak kita? pilihan ada di tangan kita. 10 tahun kedepan akan sangat menarik "
+Chat gpt cuma demo doang. Ujung2nya bakalan berbayar layanan kek gini
+ @jackbrown107  gue ngerti sudut pandang elu, bahwa yg berbayar pasti bakalan ditinggal konsumen, tapi apa bener akan seperti itu? belum tentu juga. software premium tentu akan lebih banyak menu premium yang justru menguntungkan pengguna, dibandingkan dengan biaya yang dikeluarkan.
+ @jackbrown107  tetep gratis bang, justru bikin subscription plan $20/mo itu buat subsidi silang biar tetep ada yang akses gratis
+Gimana kalo para robot nanti pake AI terus ngambil pekerjaan manusia?
+ @ibadch.5710  pasti bakal ada pekerjaan baru juga yang bermunculan di saat yang bersamaan, hal kayak  gini udah pernah kejadian di revolusi industri, bukan sesuatu yang baru lagi dialami manusia sebenarnya
+Bang liat tuh, sekarang netflix jepang pake AI banyak kontroversi alaasanya kekurangan tenaga kerja padahal animator jam kerjanya tidak manusiawi gaji sedikit.
+ @byujkt3822  betull bang, ini lagi ngetik konten buat di IG soal itu
+ @jackbrown107  mending gw bayar langganan dari pada free kayak gini kadang lemot karna full capacity atau server down
+Sebenernya, tinggal sisi manusiawi yang bergerak pak karena pihak perusahaan pasti banyak berfikir untuk mengganti tenaga kerja manusia beralih ke AI.
+ @jackbrown107  bro if something is free you are the product.
+ @itsvan5791  lah malah ngata2in org
+ @jackbrown107  lah emang kenyataanya kayak gitu Facebook & Google gratis karena penggunanya yg jadi produk buat di jual datanya ke perusahaan perusahaan yg mau ngiklan biar mereka bisa dapet revenue.
+sama-sama mas.
+"Wow sampai ""Mengijinkan"" Chat GPT ""Brainstorming"" kita apakah bukan diksi yang ""Menakutkan"", ketika kita sudah mulai menerima ""pengetahuan"" chatGPT sebagai kebenaran mutlak, akan muncul doktrin-doktrin sesat yang dijejalkan ke otak kita tanpa sadar dan dengan sukarela kita menerimanya"
+"Hmm,, poin yg menarik ini. Pak @ariefrantoni1293  boleh definisikan lbh lanjut apa itu doktrin2 sesat disini
+ bserta indkator2nya ?"
+ @erwinfajar7810  we never know pak, apa aja coding yang dimasukkan dalam AI ini, berguru ke orang yang ada wujud fisiknya saja masih perlu divalidasi pengetahuan, sanad keilmuan, dan afiliasi keyakinannya....saya menghimbau agar melakukan riset kembali konten yang diproduksi oleh AI
+benar, OpenAI harus diberlakukan seb agai tools, dalam dunia desain 3d, AI sudah sekian tahun digunakan oleh produsen GPU terutama NVIDIA, terlebih mereka menelurkan VGA RTX Series.  Membenamkan fitur AI pada chip gpu mereka, mendorong pengembang software mngupdate produk  mereka agar bisa  sinkron dengan  hardware tsb, tentu hal ini menjadi daya jual software tsb pada para designer dan 3d artist. Sementara para user tsb, terbantu menghasilkan karya lebih produktif dan kualitas meningkat scr signifikan, otomatis cuan lagi. saya termasuk mencoba mengikuti perkembangan tsb, tentu sebatas kapasitas dan kapabiltas yg ada
+chat gpt ini memang sungguh luar biasa. Mungkin beberapa orang akan khawatir dengan teknologi ini. Tapi seperti masa masa sejarah yg lalu dimana orang ketakutan awalnya dengan kehadiran teknologi namun sekarang hidup berdampingan dengannya, dan menurut saya kedepannya kita juga akan seperti itu. Chat gpt ini memang hanya sebuah AI yg dimana tidak semua hal bisa dia lakukan apa yg kita lakukan terutama dalam hal pendekatan emosional. Disinilah nilai tambah dan yg membedakan kita dengan mesin, chat GPT mungkin bisa menjadi kalkulator bagi kita namun kita juga yg membahasakan hasil kalkulator tersebut kepada sesama kita manusia.
+"Namun, teknologi ini bukan berarti hanya mengambil pekerjaan manusia namun juga di satu sisi akan menambah pekerjaan manusia yg tidak pernah kita pikirkan sebelumnya. Contohnya kehadiran seperti conten creator, SEO management dan lain sebagainya yg muncul akibat kehadiran dari teknologi"" baru  kemarin."
+dampak positif Ai pada bidang pendidikan terutama di kalangan mahasiswa sangat lah membantu sekali, karena dengan Ai akan sangat efektif dan efisien jika digunakan oleh mahasiswa dalam mengerjakan tugas dll. Dan juga cakupan materinya sangat luat dengan adanya sistem AI tersebut. 
+"Memang ngeri2 sedap dan akan sangat mendisrupsi semua sektor tidak hanya dunia pendidikan. Tapi dengan hadirnya chatGPT kita akan dituntut lebih aware dan lebih melek lagi dengan teknologi. 
+Semangat terus semuanya."
+sektor konstruksi tidak bisa sepenuhnya digantikan oleh robot.
+ @lifeisneverthesame910  tapi tetap banyak tergantikan contoh cina bangun rumah sakit 2 hari pake robot doang tanpa kuli
+ @belajaringgris6485  waktu persiapan input apa nggak dihitung?
+ @lifeisneverthesame910  ya dihitung tapi tetep aja banyak tergantikan
+ @belajaringgris6485  untuk konstruksi belum bisa. faktanya begitu.
+ @lifeisneverthesame910  Terlalu kebesaran soalnya. Kalo pake robot entar rada bahaya. Belum lagi peralatan skrg juga udh cukup utk ngilangin 95% pekerjaan konstruksi. Kalo kita semuanya bikin prefab, itu banyak yg hilang
+ChatGPT tidak menjadi momok yang menakutkan, bila semua individu bisa memahami sedikit/dasar tentang teknologi, khususnya di bidang kecerdasan buatan.
+"Hi Dr Indrawan,
+Saya tinggal di California selama hampir 8 tahun. AI di sini sangat membantu untuk kebutuhan sehari2. Saya di sini kemana2 memakai bantuan AI. "
+Apa saja ka di sana adanya AI..agar di sini bisa di tiru
+contoh penggunaannya buat apa aja
+Misal perumahan
+Jadi babu y lu disana 
+ @salmanalfarisi4174  miris, ga punya etika
+Menurut pendapat saya efek positif AI pada dunia pendidikan dan dilihat dari sisi mahasiswa adalah dimana seorang mahasiswa dapat mempersiapkan  kemampuan untuk menghadapi masa depan dengan semakin berkembangnya teknologi yang semakin hari semakin canggih , kemampuan mahasiswa dalam memahami dan menggunakan teknologi seperti AI menjadi semakin penting dan perlu di tingkatkan . oleh karena itu penggunaan AI dalam dunia pendidikan dapat membantu mempersiapkan mahasiswa untuk masa depan di mana teknologi semakin memegang peranan yang penting. karena dengan adanya teknologi AI dapat meningkatkan produktivitas mahasiswa dan membantu mahasiswa mencapai tujuan akademik dengan lebih efisien.
+"Steve job pernah berkata.. Manusia adalah mahluk lambat dalam berlari, tapi manusa dgn 'sepeda', kecepatan larinya mengalahkan cheetah  ... So Sepeda adalah sebuah leverage utk kaki manusia..
+Alkisah, thn 1970an, komputer dianggap sbg leverage utk otak manusia, seperti sepeda utk kaki.."
+"5:04 tool atau alat yang menunjang produktivitas dan kreativitas, bukan menggantikan produktivitas dan kreativitas. dengan alat tersebut, manusia bisa ""menjelajahi"" bidang-bidang baru yang belum tergarap sebelumnya.
+6:55 ujian dengan jawaban yang harus ditulis tangan memang salah satu cara alternatif untuk menguji keaslian pengetahuan seseorang di era AI dan IT sekarang ini."
+Dlm konteks transformasi ekonomi dan pengelolaan keuangan publik, chat gpt ini membuat setiap pengambilan keputusan menjadi lebih terukur dgn evidence base yg sangat presisi. Dukungan analisis data menjadi sangat mudah dan menciptakan ekosistem data yg mumpuni
+Makanya saya tidak menuntut anak saya untuk jadi juara kelas disekolah. Saya malah mendukung kreativitas yg dimiliki anak saya. Mungkin untuk 20-30 tahun yg akan datang, pekerjaan dibidang pertanianlah yg masih bisa diandalkan, yg blm bisa tergantikan sepenuhnya oleh AI
+Problem solving, komunikasi & hubungan interpersonal. Modal dasar saya dalam bekerja di manapun dan bisa masuk ke berbagai bidang tanpa harus takut digantikan oleh AI 
+sampai akhirnya ada A.I yang bisa bikin channel youtube kayak ini atau ada A.I yang bisa jadi diplomat atau negosiator kepolisian dengan tingkat efektifitas lebih baik dari manusia.
+"Sehebat apapun ChatGPT dan NLP AI lainnya ini memberikan jawaban, saya tetap anjurkan kita menggunakan/bertanya dengan cara ""bagaimana menjawabnya/menyelesaikannya"" dibanding hanya ""apa jawabannya/solusinya"". 
+Dengan begitu, maka tidak hanya kitanya menjadi terbantu pekerjaannya, namun semakin berwawasan pula karena semakin ahli kita menyelesaikan masalah / membuat keputusan dengan langkah langkah yang didukung oleh data (data driven decisions), bukan hanya asumsi."
+Tapi ingat bahwa chat gpt, berdampak buruk terutama mampu membuat puisi cinta dan juga mampu membuat mahasiswa lulus tes pekerjaan hanya pakai Ai terlebih jika makin banyak yang salah gunakan chat gpt ini sehebat apapun manusia Bakalan terbongkar kalau dia pakar palsu
+Saya membayangkan AI di masa dapan (yg tak terlalu lama dari sekarang) akan menggantikan anggota DPR sebagai wakil rakyat. AI tinggal mengumpulkan keluh kesah warganet di dunia maya dan menyajikannya dalam sidang. AI juga bisa jadi legislator dengan mengumpulkan pendapat ahli untuk bidang terkait UU. Dan yg jelas, gak usah digaji dan dibiayai tunjangan serta studi banding.
+Tanpa perasaan _emosi bisa sangat membahayakan khan?
+Bisa-bisanya berpikir sampai ke sini hehe... Jadinya para anggota dean ga bisa tidur saat sidang?
+Saat saya berusia 11 tahun, nonton film Terminator dengan robot dan Skynet nya, rasanya masih jauh kita bisa mencapai teknologi itu. 19 tahun kemudian, teknologi2 yg ada di film sci-fi semakin banyak yg terwujud dan bisa dipakai manusia.
+Sama sepemikiran dg saya
+"Pada akhirnya tak ada yang tak terbatas, atau kata lain segala sesuatu pasti ada batasnya.
+Termasuk juga ChatGPT ada limit yang membatasinya.
+
+Maka kembali kepada fokusnya, bahwa sesuatu dibuat untuk fungsi tertentu (fungsi utama) walau dibuat sebagai ""multi-purpose"" (multi-fungsi)."
+Betul bang.. semua tergantung pengguna. Intinya kita harus belajar memahami dan mengikuti alur tekhnologi dengan lapang dada dan tentunya kreativitas akan semakin lebih baik lagi... terima kasih sudah membahas ini
+si saya yakin fungsi CS Manusia  untuk saat ini bisa tergantikan segera Open AI ini , karena lebih natural bukan seperti Bot yang masih manual choice.  mudah mudahan Engineer indo segera ikut menggarap pasar dalam negeri karena ini sangat membantu khususnya UMKM ynag masih belum sanggup gaji Karyawan.
+anak2 sekolah lebih didorong untuk belajar mencipta, ketimbang mengisi esay2 dan hafalan yg rutin diberikan dari guru karna hal2 tersebut sdh bisa d bantu oleh tools sprti chatgpt
+ChatGPT kalo gini bakal bisa sangat meningkatkan kualitas NPC dalam game dan mungkin bakal mungkin di implementasikan ke VR
+wah iya juga ya, gak kepikiran gw.
+Npc itu dari awal emg udh pake AI.
+ @jackbrown107  yaiyah tp dgn opengpt ini npc akan jauh lebih nyata, bayangkan npc yang awalnya berbicara sesuai dgn program udah ditentukan dan tiba2 npc berbicara secara langsung dgn player dan itu dilakukan dgn spontan
+ @filipadriann9513  bakal susah bedain yg mana NPC sama real player.
+ @lutfiadam3225  engga, gampang bedainnya. Gua rada kurang puas sama chatgpt. Banyak bat yang salah :/
+ @lutfiadam3225  ya beda lah. dari skin aja udh ketauan
+ @filipadriann9513  nanti size gamenya jadi bengkak.
+Wah dunianya kirito bisa makin terwujud nih
+POV 2043 : Kenalan sama cewek cakep di internet, tapi ternyata ceweknya di real life gak pernah ada. Alias Cuma AI/NPC
+ @jackbrown107  gak sebengkak itu inikan cuma IA, emang nambah tp gak sebesar seperti aset2 lainya dalam sebuah game, lagian makin lama size game emang makin gede 
+"Saat ini kita berada di sebuah Pivotal moment. Bagaimana kita bekerja, berkarya dan belajar tidak akan sama seperti dulu lagi.
+Terimalah kenyataan itu. Mulailah melatih diri anda untuk menjadi bagian dari masa depan."
+Jawaban kegelisahan saya di video Pak Indra yang membahas soal Lamda ternyata ada di sini.  Siap tidak siap, suka tidak suka, teknologi AI memang sedang berkembang pesat saat ini. It is what it is. Tinggal bagaimana kita memfokuskan energi kita untuk menanggapi hal itu. Mau fokus pada kegelisahan dan kekhawatiran terus menerus, atau mengalihkannya ke penguatan potensi-potensi diri yang bisa digunakan untuk memanfaatkan teknologi baru ini menjadi lebih bermanfaat. Pilihannya ada pada diri kita masing-masing. Terima kasih, Pak Indra & team untuk konten-konten yang berbobot tapi asik dicerna di channel ini! 
+semoga anggota DPR kedepannya bisa di kerjakan chatGPT
+Emang DPR kerjaanya apa?
+" @cahyonotok6432  nonton bok""""p"
+Wkwkwk 
+Semoga 2030 chatGTP Gantikan DPR
+dipercepat tahun depanlah
+Hemat anggaran dan memgurangi atu menghilangan angka koruptor . 
+Ngakak , patut di coba
+No no no... demokrasi sdh ketinggalan jaman .kawan. itu barang kuno
+Sangat cerdas semoga dan semoga
+Setuju 
+dpr bukan nya yang slalu ngabisin duit rakyat ya?
+Percuma ada DPR kita juga masih demo2... Kerja mereka pa.. G guna... Boros, ga da hasil
+Krn itu bubarkan dpr (agar anggaran keuangan negara terselamatkan dr pemborosan yg tdk berguna tdk ada kegunaanya dr para anggota dpr yg lbh banyak dungunya)
+Sangat setuju ....jadi kita pilih aplikasi untuk mewakili kita. Sepertinya outputnya lebih efisien dan produktif
+Good idea
+Aku ndak setuju klo ini soalnya klo misalnya di ganti sm chat gpt ntr bakalan ke rekam sm pembuat ai nya jdi data” yg ada di dpr ntr bisa disalin kepada si pembuat ai nya,ntr klo udh kesakitan bisa dijual ke negara” musuh gtu kak……
+Setuju! Jadi menghapus Korupsi/Kolusi/Non Produktif. Mari dukung Pencalonan AI jadi Ketua & Anggota DPR/MPR RI!!!
+sangat revolusioner ! 
+
+Perusahaan yang mengembangkan penggunaan AI akan segera IPO di indonesia, pak. Lini imaji kreasi ekosistem, selain mengembangkan penggunaan AI, juga fokus mengembangkan penggunaan mixed reality, web 3.0, metaverse, dan decentralized economies di indonesia dan kawasan asia-pasifik dalam 2 tahun ke depan 
+Rans bukan sih?
+Sebulanan ini di sekolah kami juga agak panik jika anak² mengetahui ini lalu mengerjakan tugas pemrograman dasar dengan chatGPT, sehingga nilai diatas kertas baik tapi sejatinya anak² tidak paham dengan apa yg dikerjakannya, itu berarti pendidikan telah gagal.
+Iya pak tapi kalo anaknya cerdas malah membantu buat proses belajar. Tapi kebanyakan murid sy jadi males terlalu ngandelin AI. Dilematis
+saya suka cara Dr. Indrawan menjelaskan... , dapat dgn jelas saya tangkap paparannya..untuk org seusia saya (56 tahun) saya seorang guru desain grafis dan teknik pengolahan Audio Visual..Pada sebuah SMK swasta di Tangerang, menarik untuk saya pelajari.. terimakasih Dokter..
+Chat GPT kompatibel dengan industri pendidikan karena mungkin mengefisienkan formalitas (proses) belajar mengajar dan penelitian , input 1000 mahasiswa. output 1000 wisudawan. statistik lembaga OK capaian kinerja OK. tanpa drama :)
+Semoga chatGPT memberikan influenz yang positif untuk terangkatnya harkat dan martabat rakyat Indonesia secara ekonomi, sosial dan politik sehingga kerukunan agama menjadi damai kembali
+kerukunan agama? emangnya ada hukum agama yg jelas bahas AI?
+"Aku hanya takut kalau kita tidak mengantisipasi kecepatan perkembangan AI.
+terutama yang masih menggunakan mindset lama mungkin tertinggal oleh orang2 yang sudah memanfaatkan chat gpt dari sekarang."
+"Apalagi kebanyakan pelajar saat ini lebih fokus ke trend"" dan kurang perhatian ke hal ini"
+Biasanya memang begitu....penemuan2 awalnya digunakan utk mempermudah dan meringankan pekerjaan2...tetapi memang selanjutnya ada sj dampak2 negatif yg merepotkan...memang tdk 100% bermanfaat...ada S&K nya...
+Selama apa apa masih agama, susah sih. Ilmu pengetahuan itu butuh kebebasan berpikir dan kebebasan dalam berpendapat.
+ @Blue-zl8rr  tinggal matiin listrik udh kelar AI
+generasi X yang paling bengong, masih hidup dan bekerja, tidak tau bagaimana menggunakan AI, gw kelahiran 2000s udah merasa jadi boomer dibanding gen alpha
+Menurut saya satu-satunya pekerjaan yang tidak akan tergantikan itu petani,dan sampai kapanpun kita akan butuh petani untuk mencukupi kebutuhan pokok kita
+ga juga sih
+pertanian juga sudah semakin modern, tenaga manusia untuk menangani pertanian juga sudah banyak dan bisa digantikan oleh mesin, mulai dari penyemprotan pestisida mengunakan drone, sampai proses pemanenan yang jauh lebih canggih..
+Menurut saya selagi pekerjaan tsb secara mendasar hanya membutuhkan energi, bakal bisa digantikan oleh robot dan mesin2...krn manusia mikirin cara2 utk bagaimana cara mempermudah pekerjaan mereka..nahhh yg agak susah digantikan itu adalah kreativitasnya..inovasi dalam menciptaka penemuan2 tsb..ya seperti yg disebut dlm video..kreativitas dan inovasi masih belum bisa tergantikan oleh AI
+Ya kalo manusianya mau jadi petani. Kayaknya mending jadi tukang parkir
+Maksudnya mungkin pertanian dan peternakan masih tetap ada, selama manusia masih konsumsi zat organik, kecuali kalo manusia sudah direkayasa untuk bisa fotosintesis sendiri. Sedangkan subjeknya seperti petani dan peternak bisa digantikan teknologi
+Terima kasih pe jelasanya Dr , yang telah mengedukasi teknologi di era modern yang akan merubah dan merevolusi manusia agar lebih care dengan hal2 seperti ini , ketimbang urusan2 penistaan agama dan perbedaan antara Ras !! , kebencian terhadap Negara2 lain yang blom jelas apa !, harusnya kita rendah hati  dan belajar jika tidak ingin tereliminasi
+Mantap 
+Potensi ChatGPT yang prof indra sebut bisa membantu manusia meningkatkan produktivitas itu sejalan dengan visi Bill Gates / Visi Microsoft saat pertama hadir, untuk unlock higher potential manusia.
+Banyak inovasi tekhnologi yg dibuat sangat memudahkan pekerjaan manusia. Dan bahkan dapat menggantikan posisi manusia dalam pekerjaan manusia itu sendiri..  mau kerja apa anak cucu kita dimasa depan
+sebenarnya bidang kreatifitas juga mulai terancam pak. Coba aja suruh chatgpt buat cerita atau script film, video dengan deskripsi yang kita minta, bisa dia. Image generator AI juga makin bagus, nyoba2 Dall-e bisa generate gambar apa aja yang kita mau, atau ada midjourney yang saya coba malah lebih bagus lagi
+bikin script film sangat bisa tapi kasi jiwa agar film tersebut bisa sampe ke hati penonton.. gak akan bisa.. ato bikin naskah skrip film yang bisa laku sampe 8 juta penonton.. gak akan bisa.. ato gini jg.. AI suru bikin lirik lagu yang bagus nan puitis.. sangat bisa.. tapi lirik bagus nan puitis tersebut haruslah punya nada dan menurut aku rasa dari nada tersebut cuman tercipta sense manusia.. ini klo di indsutri musik dan film yaa.. kreatifitas nada dengan feel dan sensenya menurut aku sampe kapanpun gak akan bisa digantikan AI..
+"Perlu di pahami bersama bahwa chatGPT adalah software yang mana semua software membutuhkan input untuk dia proses sehingga menghasilkan output.
+ChatGPT ini menggukan input bigdata yang banyak di internet. Namun perlu digaris bawahi, jika input (sumber data) yang diperoleh oleh AI ini salah atau tidak valid, maka hasilnya pun akan salah."
+Aku mahasiswa juga berlangganan CHATGPT,  bisa menjawab betul soal sederhana dan akurasi jawabannya mendekati 90% soal yang kompleks, walaupun jawabannya tidak benar setidaknya sudah mendekati kebenaran dan tinggal sedikit dikoreksi saja
+"teknologi pasti berkembang
+kalau dianggap/dijadikan ""pesaing"" dalam bekerja pastilah posisi manusia bisa2 tergeser oleh robot."
+Kuli pabrik pegang mesin terus tp skrg banyak yg udh pake robot
+"Saya liat2 pembawaan nya full senyum pak, hahaha
+Saya pun yg sudah mencoba sendiri chatgpt merasa takjub. Semua pertanyaan teknis bisa dijawabnya. Mungkin ini satu2nya buah perkembangan teknologi yg terjadi di satu dekade ini yg bikin saya merinding sekaligus resah dalam konotasi positif"
+Donwloadnya di mana bro
+Terima kasih Pak Dr. Indrawan... statement positif yg menjadikan Chat GPT lebih sebagai alat bantu utk kita lebih produktif sangat menenangkan
+Sistem ekonomi dunia harus berubah agar banyak pekerjaan yg hilang krn IA bisa tergantikan dg pekerjaan baru.
+Dari sini kita belajar berapa mulianya orang orang di dunia sana ilmu bermanfaat di kembangkan dan sebar luaskan secara murah bahkan gratis beda dg negara kita ilmu di tutup rapat dan butuh biaya besar untuk mendapatkan skill dan keahlian ... Mulai dari kelas 0 SD S2 pendidikan di jadikan ladang bisnis tanpa peduli siswa yang di didik mau jadi apa...  mencetak sarjana lebih mudah dari mencetak batu bata.
+"Informasi yang sangat bermanfaat sekali pak. Saya kemaren barusan review ChatGPT selama 1 minggu lebih dan hasilnya emang predictable yak bisa menggantikan beberapa pekerjaan seperti akuntan, customer service, lobby service. Bahkan beberapa pertanyaan soal materi soal pun dia bisa jawab dan hampir semuanya benar. Kemudian untuk buat aplikasi sederhana aja dia bisa buatkan tuh sample nya dan dia itu ngaku sendiri kalo sample code nya itu belum terlalu sempurna dan diperlukan adanya modifikasi sesuai kebutuhan. Jadi bisa disimpulkan kalo ChatGPT bisa jadi tools buat nanganin masalah sepele di beberapa profesi sehingga pekerja manusia tinggal fokus ke hal-hal yang expert aja, biar detail"" kecil ditangani sama AI. Jadi bisa diprediksi banyak perusahaan (terutama di ikn) bakal bergantung sama AI juga "
+sama-sama, thanks untuk sharingnya mas.
+walaupun saya cuma rakyat biasa, bukan seorang akademisi dan professional, pernah coba chatgpt tersebut, memang keren untuk para pelajar, mahasiswa atau mungkin para pekerja kantoran. Tapi chatgpt tidak bisa menggantikan pekerjaan manusia, apalagi menggantikan google rasanya belum sampai kearah sana, mungkin chatgpt hanya membantu meringankan pekerjaan manusia...
+seandainya dulu pas saya masih kuliah Chat GPT udah ada, pasti sangat membantu project IT yang notabene semuanya pake bahsa pemrograman
+teknologi AI merupakan teknologi yg banyak manfaatnya buat manusia wlpn tentu ada sisi negatif..tapi paling gak dibanding teknologi yg sedikit mengada2 mcm metaverse sangat jauh penggunaan di dunia nyata
+Saya pernah nyobain minta chatGPT bikin cerita kriminal. Walaupun hasilnya terlalu klise tp ga bisa dipungkiri kalau teknologi ini cukup cerdas untuk membuat dan mengolah data yang dia punya menjadi karya tulis yang baru. Sya rasa utk saat ini sentuhan manusia msh diperlukan utk sesuatu yg sifatnya kreatifitas.
+iya krn blm punya emosi dan ga bisa sarkasme... tp itu sedang di kembangkan, dan bisa jadi beberpa tahun mendatang bener2 seperti manusia.
+Itulah kita harus mau belajar untuk beradaptasi dengan perubahan kemajuan teknologi yg terus ada, chat gpt justru memudahkan pekerjaan bukan akan menghilangkan pekerjaan kalau kita mau berpikir kreatif
+kreatifitas tanpa batas , seni tak bisa dinilai dengan AI .
+Wah konten yg ditunggu ternyata dibahas juga, sangat menarik sekaligus lumayan serem teknologi ini. Saya sebagai animator kebetulan  pakai juga chatgpt ini untuk membantu riset konten membuat cerita pada video animasi, serta mencari teknik animasi terbaik untuk motion graphic dan video animasi sesuai latar belakang cerita dan gaya video. Dan ya jawaban chatgpt ini lumayan memuaskan bagi saya.
+Izin tanya, cara pakainya gimana kak?
+Tengkyuuu, enjoy ya
+Setuju sih, udah ribuan tahun manusia kena disrupsi teknologi tapi tetep aja bertahan dan malah makin pinter. Contoh kuda jadi mobil, surat jadi email, dan foto cetak jadi digital. Keberadaannya gak kita benci kan di jaman ini? Begitupun AI nanti masa depan
+Tukang becak, dokar, hilang ditelan motor/mobil ojol ? Yang bertahan tetep yang mempunya kemampuan (finansial). Yang tidak punya ya akan tergerus/punah oleh teknologi (yang juga butuh aspek finansial). Prinsip kapitalis tetap akan berlaku sama.
+Perkembangan ya lebih gila, kuda jadi mobil perkembangan ya tidak seberapa dibanding Dunia fisik jadi digital
+"5 kekurangan di jawab ama orangnya sendiri(chatgpt): 
+Sebagai seorang model bahasa alami, saya memiliki beberapa kekurangan yang perlu diperhatikan, di antaranya:"
+Secanggih canggih manusia dalam mewujudkan tekhnologi kepandaian, mereka belum bisa menciptakan sebuah alat kecil atau semacam chip yg bisa dipasang di kepala manusia yang dikoneksikan ke jaringan syaraf shg mampu membantu manusia  berfikir cepat , misalnya manusia bisa berbahasa asing dgn lancar..padahal belum pernah belajar bahasa tersebut. Ide gila
+Jangan jangan chat gpt di biarkan diakses publik untuk melatih model data yng lebih banyak, tak disangka mungkin saja kita dengan sukarela melatih dan membesarkan monster yng kita tidak tahu apa
+memang seperti itu cara kerja Artificial Neural Network. Semakin sering dilatih semakin dia pintar dan akurat.
+Nanti jadi skynet.
+"►bisa positif untuk orang yg selalu ingin tahu tentang dunia & cara kerja dunia (bagi seorang pelajar yang di arahkan)
+►bisa negatif untuk orang yang malas untuk tau tentang dunia ( cari cara termudah,malas menghitung dan mencari tahu, menganggap chatGPT sebagai google versi terbaik)"
+Kebetulan saya baru saja menonton film berjudul Megan yang mungkin berhubungan dengan topik ini.  Menakutkan melihat efek negatif ketika AI terlalu banyak mendominasi informasi dan pengetahuan
+"Assalamualaikum pak Indra..
+Jikalau boleh sy bertanya, yg dimaksud dengan ChatGPT bisa menjadi Content Creator, bolehkah sy mendapat penjelasan (opini pribadi pak Indra) mengenai Content Creator seperti apa itu pak?"
+"Saya sudah menggunakan Chat GPT sekitar sebulan lebih memang SANGAT membantu sih, buat script, dll semua jadi lebih mudah. Tapi ya balik lagi, jika hampir semua dapat diwakilkan chat GPT maka manusia sepertinya ga bakal terpakai lagi servicenya pada akhirnya . Jadi ingat film ""HER"". "
+Chat gpt ini berarti harus banyak masukin data ratusan juta kata dari berbagai bahasa, nah si machine learning yang mengolah data yang di himpung dengan jumlah yang sangat banyak. Berarti harus melibatkan banyak orang untuk menghimpun data kata dari berbagai sumber dengan jumlah ratusan juta kata.
+Anak -anak di sekolah kami malah kami encourage untuk menggunakan Chatgpt untuk membantu mereka dalam membuat sebuah karya analisa. karena tugas di sekolah kami bukan hafalan tetapi analisis esai
+Mari kita kembali le Perkebunan dan Pertanian atau Perikanan. Karena Pekerjaan itu yg sekarang masih di butuhkan. Karena Manusia Masih Butuh Makan. AI cukup membantu sebagai alat.
+Saatnya Proses pembelajaran dunia di ubah menjadi lebih efisien, kerja kelompok, dan ujian lisan..
+"Pak, kenapa google dibandingkannya sama chat gpt bukan sama mesin pencari yang lain?
+seperti
+1. DuckDuckGo
+2. Ecosia"
+Bagus doong kalau AI bisa menggantikan semua pekerjaan. Saya bisa menjadi lebih banyak waktu untuk mendaki gunung, menghabiskan waktu bersama keluarga, atau pergi belajar ilmu spiritual di pegunungan Tibet. 
+Betul sekali. Yang jelas perusahaan bisa lebih efisien dijalankan.
+Teknologi akan semakin berkembang, jadilah orang yang terdepan!
+Perkembangan chatbot AI semakin canggih nih... Bahkan bisa jadi era dehumanisasi karena manusia jadi malas dan menyerahkan semuanya ke AI... padahal bisa bahaya nih klo AI jadi punya emosi karna dia bakal punya kemandirian berfikir.. Dan bisa jadi apocalipse karna robot bisa terjadi kaya di film2... 
+aku udah pake chatGPT untuk keperluan saintifik. kalo sebatas esai singkat tentang topik umum tertentu chatGPT nggak ada kendala. tapi lain lagi kalo udah mengarah ke arah saintifik yang harus menyertakan referensi dan data yang valid, masih sering ngaco, aku suruh chatGPT untuk memvalidasi data yang dia peroleh sendiri juga masih belum bisa. jadi intinya chatGPT belum sepenuhnya menggantikan penulis manusia, bagaimanapun tulisan manusia itu bisa dinilai kedalaman analisa tulisannya. toh sumber informasi chatGPT ya dari input2 penulis lain. intinya kalo penulis yang open minded justru nggak akan merasa tersaingi dengan chatGPT, chatGPT justru bisa membantu meringankan beban penulisan. soal tugas esai sekolah mah itu balik lagi ke knowladge gurunya, antara guru sama murid siapa yang paling up tp date tentang teknologi. mereka yang tidak bisa mengikuti perkembangan teknologi justru mereka yang akan obsolete
+Thanks untuk infonya yaa
+Sepertinya akan ada perkembangan AI yg memiliki kemampuan berbeda-beda dan merangkum jadi satu kemampuan utuh yg dimiliki manusia . Meskipun banyak hal kemampuan yg ada pada manusia yg tak dapat tergantikan oleh AI
+tiap kali nonton pak indrawan berasa lagi kuliah gratis cuma modal kuota data dan device aja, terima kasih pak indrawan untuk ilmunya, selalu sehat yah..
+dan jangan skip iklannya 
+"AI mengumpulkan kecerdasan dari manusia.. disimpan.. bertambah dan terus berkembang..
+AI memanjakan manusia sehingga manusia menjadi malas belajar
+1 AI vs 1 Juta manusia, kayaknya menang AI 
+Kita lihat perkembangannya"
+bersyukurlah jika kalian adalah petani, peternak, kuli bangunan, mekanik, teknisi. karena pekerjaan tersebut yang tidak bisa digantikan oleh AI..
+Kata siapa? Semua pekerjaan yg kamu sebutkan tadi bisa dgantikan oleh mesin atau robot.
+"generate wkwkwk :
+
+Chat GPT adalah kecerdasan buatan (AI) dari OpenAI yang dikembangkan untuk mempromosikan dan mengembangkan AI yang ramah dan bermanfaat bagi kehidupan manusia. GPT adalah model bahasa berbasis neural network yang dilatih dengan supervisi learning dengan memanfaatkan data sebesar lebih dari 40 GB teks internet. GPT bisa melakukan berbagai tugas seperti menjawab pertanyaan, membuat analisis keuangan, menulis puisi, menciptakan lagu, membuat prediksi, menterjemahkan bahasa, hingga membuat lelucon. GPT bikin heboh karena bisa melakukan tugas yang biasanya dilakukan hanya oleh orang-orang kompeten dan bisa menguasai berbagai kemampuan."
+Peradaban akan maju dan berkembang jika kita mampu menyelesaikan sejumlah operasi penting tanpa harus memikirkannya..
+"""kita""?.....kita siapa?.....para pencipta  AI justru berfikir lebih keras lagi..."
+tanpa memikirkannya? kita tau sesuatu tanpa tau prosesnya itu bahaya bro,
+"Betul pak Doktor,  sepekan saya chat dgn chatGPT, saya suruh coding, buat puisi, buat musik dan hadilnya......wow.....gokil..., Codingnya bisa dipakai dan ""running well""...
+Salut buat mas Elon.."
+Pekerjaan yang tidak akan tergantikan adalah GURU MENGAJI
+Sekarang sudah ada aplikasi buat belajar baca Alquran bang
+Guru vokal dong
+Guru akhlak belum wkwwk
+Semakin mudah teknologi sekarang semakin banyak persaingan sengit dalam hal teknologi dalam mendapatkan pekerjaan 
+Intinya chat GBT hanyalah program yang di buat manusia, tidak lebih dari kemampuan manusia..karena semua yang ada sudah di rangkum dalam data..jadi bisa dibilang hanya bisa transfer informasinya lebih mudah dan efisien..
+saya selalu pakai AI untuk semua pekerjaan saya. dengan adanya AI semua bisa jadi lebih mudah. misal ada klien butuh design A dengan brief ABC. saya tulis di midjourney lalu saya ajukan sampelnya, setelah aprove saya buat filenya . buat temen temen nih
+"Dengan kemajuan teknologi yg melahirkan Ai masuk kedalam setiap ranah hidup setiap manusia, dan bahkan kedepannya bisa jadi merubah segala sendi-sendi kehidupan
+
+Prioritas mendasar dalam hidup haruslah hidup itu sendiri, bukan penumpukan barang dan orang, bukan drama sosial dan psikologis."
+AI emang powerful banget, sangat membantu dan mempermudah tapi semakin kesana makin susah cari kerjaaan buat orang kalangan bawah semua kerjaan diambil alih AI.
+kerja kalangan bawah itu semacam pembantu,kuli, supir,petani,pedagang: keliling asongan kaki lima dsb, dan berbagai kerjaan yg bersifat fisik. Lo gak perlu kuatir AI gakbakal bisa gantiin... TAPI yg lu maksud pasti kerjaan receh di kantoran impian anak2 jaman sekarang .. kerja semaunya dikantor nongkrong di starbuck trs pulang ... kerjaan gak seberapa nuntut banyak <<< ini yg bakal keganti open AI
+ @laughtalememe  customer service aja udh ada yg mulai pake ai
+saya full senyum ketika elon dan gates bersaing dengan larry hahah. cukup menarik, semoga kita semua diberi umur panjang untuk menyaksikan yang terjadi di dunia dan menjalaninya dengan unik menjadi bagian kecil antara elit global.
+bagi saya yang berada di bidang composer musik chatgpt sngt membantu..., saat mengalami kebuntuan dalam membuat lyric lagu. sya bisa membuat lyric lagu kurang dari 5 menit
+"ChatGPT gokil sih, bisa mengusik gajah yg lagi tidur.
+
+""In February 2023, Google announced Bard, a conversational artificial intelligence chatbot powered by LaMDA, to counter the rise of OpenAI's ChatGPT."""
+Luar biasa atas penyampaian nya, sehat selalu Pak Dr Indrawan 
+Kayaknya semakin kita aktif menggunakan chatgpt semakin banyak feedback yang chatgpt terima, jadi semakin banyak orang bertanya/menggunakan semakin besar kemampuannya nanti.  Dua sisi koin.
+Iya juga ya. Chat GPT akan terus mengupdate databasenya seiring dia dipakek orang. Keren
+maturmuwun Prof, panjenengan memang senang membagikan ilmu kepada kita. sangat bermanfaat.
+Masyaallah super jelas. Sebagai penulis tetap optimis dengan tetap beradaptasi dengan ChatGPT. 
+Setelah menonton video ini, saya.coba chatGPT. Ternyata lebih seru video ini daripada hasil pekerjaan si AI. Saya suruh dia bikin video 30 detik berkali2, suruh bikin puisi, minta dia membuat coding (saya pernah jadi editor dan punya beberapa buku puisi dan bisa memrogram app) dan melakukan tugas2 sederhana seperti di google. Dia belum bisa terlalu dalam dan tidak sangat spesifik, dan memang di bagian tertentu yg membedakan kita dengan mesin, dia bahkan menolak untuk melakukannya. Bahkan untuk pekerjaan yang menyangkut SEO, dia cuman memberikan penjelasan permukaan Belummm... belum ada yang perlu ditakutkan.
+ @ynbreak  iya betul, saya sudah coba gunakan dan makin yakin bahwa kemampuan menulis manusia belum bisa digantikan, tapi kita bisa manfaatkan chatgpt sebagai alat bantu saja.
+Penuhi dunia maya dengan masukan2 kebijakan, jgn biarkan data2 yg pd dasarnya hoax & semacamnya menjadi referensi pembelajaran/kesimpulan AI...lebih parah lg jika apa yg disimpulkan tsb dipercaya mentah2 tanpa pertimbangan logika+nurani & norma2 yg berlaku dlm masyarakat
+Sebagai renungan  untuk kegiatan belajar cukup memuaskan karena memang terinci betul, dan saya coba juga memerintahkan Ai ini untuk yah mencari jurnal ilmiah, akan tetapi sangat di sayangkan untuk adik² yang sedang kebingungan mencari jurnal  buat tugas akhir yah ai ini terbatas karena ai ini blm bisa merambah atau masuk ke indeks jurnal ilmiah tertentu semisal dari JSTOR, Elsevier dll, ga tau kedepannya jika bisa ini bisa menguntungkan dari sisi author jurnal yang bisa dapet kutipan dan anda yang sedang membuat sebuah penelitian namun ini bisa untuk membuat skema² penelitian anda mulai dari metode yang cocok, variabel yang paling relevan dan lain sebagainya. Tapi saran si jangan terlalu bergantung pada ai nanti rasionalitas anda terhadap sesuatu yang anda teliti itu kurang Joss gitu intinya masih mending memikirkan dan menulis apa yang ada pikirkan untuk penelitian anda.
+"AI saat itu bisa diibaratkan hp nokia jadul, gak kebayang sih masa depan apa yg bakal disuguhkan jika AI sudah setara perkembangan smart phone. Ngeri"" sedap kalau mikir soal AI dan masa depannya bagi umat manusia"
+"ChatGPT ini menjawab pain point yang diberikan si Google. 
+1. di google perlu otak atik kalimat yang benar agar hasil pencarian sesuai. open ai bisa mengikuti topik bahasan.
+2. google terlalu banyak pilihan, kadang yang masuk halaman 1 itu isinya spammer backlink. open ai langsung menjawab cuma 1."
+Semakin saya dengarkan video ini semakin ada korelasinya dengan salah satu fenomena yg terjadi di satu region genshin impact, sumeru. Banyak org memakai akasha untuk mencari informasi sehingga para peneliti ataupun manusianya mengalami kemunduran dan critical thinking krn semua jawaban ada di akasha. Akasha disini jg diatur org pemerintah mereka jadi terdapat beberapa tingkatan untuk seleksi apa2 saja yang dapat diakses.
+Term ramah dalam perspektif ai itu penting, karena dalam perkembangannya developer ngga bisa maksimalkan potensi yang ada sebagaimana di bidang yang lain. Alih-alih memudahkan pekerjaan, kalau terlalu op bukankah malah mengancam manusia sendiri?
+2 jam lalu saya berfikir chatgpt ini hanya sekedar mainan viral sepeti hal nya tiktok, tapi setelah saya coba ternyata obrolan saya bisa sampai bercandaan dan pertanyaan2 spesifik yang perlu waktu dicari lewat google, saking bahagianya jadi ga perlu lagi quora yang banyak migrasian orang2 dari sosmed yg ngobrolin masalah rumah tangganya di sana 
+Wah mantap sekali Bapak Ini, terus terang ini Kembali menarik minat saya untuk menambah isi otak saya dengan pengetahuan, which is litteraly 10 years ago. Saya sudah ikuti bapak sejak mungkin awal awal bapak muncul. Great...idolaku
+Secara tidak langsung manusia akan memiliki 2 otak , yg satu cerdas banget   (Chatgpt) yg satu (kita), tinggal kitanya , bisa mengimbanginya dan membuahkan hasil positif bagi diri kita / mungkin hanya menjadi tameng di atas kebodohan kita sendiri, akan ada banyak sekali orang yg tidak tau tapi bisa melakukan sesuatu yg bahkan tidak pernah dia tau sekalipun,, wahh seru sekaligus SERAM
+Mungkin kedepannya chat gpt jadi alat sewa yg bagus,  tapi untun optimalisasi pertanyaan dan tingkat ke akuratan kita harus upload data dahulu ke chat gpt tersebut,  dan ujung ujungnya kita harus mapping pertanyaan yg akan  terjadi dan apa saja solusiny, dan masih perlu operator yg harus menjaring pertanyaan baru dab menguploadnya jika perlu
+"saya pernah coba di chatgpt ""dialog untuk melawan atasan""
+dia menjawab 
+""Sebagai model AI, saya tidak menyarankan bertindak melawan atasan. Lebih baik untuk mengatasi masalah melalui komunikasi dan negosiasi yang produktif dan profesional. Jika Anda merasa ada masalah yang harus dibicarakan, cobalah untuk menyampaikan pandangan dan pendapat Anda secara terbuka dan dalam cara yang respekful terhadap atasan Anda. Mungkin ada solusi yang dapat dicapai melalui komunikasi yang efektif"""
+Terima kasih. Tanya bang. Bagaimana pengaruh chatGPT terhadap pertimbangan dan keputusan politik di suatu negara.
+"Chat GPT memicu distrupsi sistem edukasi kita.
+Kita sudah terpaku ke sistem edukasi yang menekan kreatifitas, dan menciptakan manusia yang malas berfikir."
+Saya create dummy database untuk testing software dengan ChatGPT, tinggal definisikan tiap variabel, minta generate 1 data dummy dulu, jika ada koreksi, redefinisikan variable, generate ulang, jika sudah benar, minta generate data dummy sebanyak yg diinginkan dan sebanyak apapun variabelnya asalkan kita bisa definisikan dengan benar, ChatGPT bisa generate kan. Bahkan beberapa variabel, saya tidak perlu definisikan karena ChatGPT sudah tau apa variabel tersebut di dunia nyata
+Memang dari jaman ke jaman teknelogi makin sangat mudah tp menakutkan
+"kelebihan chatGPT dia paham konteks dari chat kita
+berbeda dengan google assistent yang cuma one shot question.
+cortana rasanya penggembangannya jauh ketinggalan dibawah google"
+betul sekali manfaatkan semua teknologi mau chatGPT,openAI,ataupun AI yang lain sebagai Tools yang menunjang manusia untuk berkreativitas.
+Aihhh ngeri... dan keren dalam satu waktu. Tapi robot tetaplah robot, tanpa perasaan sama sekali. Masalah pendidikan tadi cukup unik. Auto langsung dicounter sama pihak kampus/sekolah.  Bener banget, soft skill mengenai pikiran manusia tetap tak tergantikan oleh robot. Intinya robot itu cuma bakal menggeser kecepatan manusia untuk berpikir dan bertindak aja.
+Menarik untuk dicoba, menarik jg untuk diuji kecil2an, bisa gak ya bikin plot twist? atau menganalisa pikiran2 irrasional yg sering dilakukan manusia
+"Mankanya manusia seharusnya bekerja di batas2 intelegensi manusia. AI itu belum sampai pada level intelegensi manusia, dia baru menyerap knowledge manusia menggunakan sistem logika yg sudah existing. Tp manusia yg ""menciptakan"" sistem logika tersebut. Logika sendiri masih menarik kok di eksplorasi, AI blm sampai ke batas sana"
+"Chatgpt gak mungkin bisa menggantikan google
+Karena fungsi mereka berdua agak berbeda
+Chatgpt itu di training oleh developernya jadi kita nggak bisa mencari jawaban sesuatu yang bener2 baru seperti berita2 terbaru"
+Barusan saya juga nyoba, pertanyaan sulit pun tentang Nabi bisa di jawabnya dengan bijak tanpa menyinggung pihak manapun, gokil sih ini.
+Dia lebih ke jawaban netral bro masih medium lah dalam tahap wajar
+Ane termasuk yang nyoba make chat gpt buat kerja terutama buat nyari insight singkat buat kerjaan atau peraturan, dan database 2021 keliatan bener pas ane nyari aturan 2022, terus dia punya kelemahan salah satunya kalo nyari aturan tema tertentu ngerangkum dari database tanpa liat konteks isi aturan, beberapa kali aturannya salah sebut, agak krusial kalo aturan jadi kudu double check
+Dulu waktu kuliah ada matkul Sistem Pakar dan khayalan saya suatu saat banyak yang akan tergantikan dengan AI salah satunya diagnosa awal saat kita ke klinik.
+Betul, sudah banyak riset yang dilakukan
+Selama anda mengikuti semua basis online di dunia maya , tidak bisa melawan dari keharusan yg diperintah dari smartphone berarti secara tdk langsung kita sdh kalah .. , no way out , krn AI dibuat oleh kumpulan otak2 manusia jenius, yang berkolaborasi menciptakan kesempurnaan AI yang didukung bank data yang  telah terkumpul bertahun tahun oleh robot AI ciptaan nya .. dan akan terussss berevolusi ..jadi jangan heran memang akan banyak orang2 yang tereliminasi dengan sendirinya...
+baca2 komen kenapa pd takut, saya malah semangat pengen tau AI ini bisa apa aja. semakin bnyk yg bsa dia gunakan bukannya semakin bnyk peluang buat mensejahterakan hidup manusia
+"Adaptasi tidak semudah ganti baju.
+Dan mungkin , sangat banyak orang yang masih belum menerima kenyataan, bahwa, apa yang masih sebatas mimpi.
+Sekarang sudah sebatas sejarah yang telah usang."
+Cepat atau lambat bakal ada, stopping the inevitable is futile. ini keknya yang diserang banget jasa konsultan sih. Tapi toh jasa konsultan itu biasanya side job (biasanya konsultan itu gara-gara doi pro aja di bidangnya, main job nya bukan ngonsul orang, tapi terapan, ya walopun kadang duit ngonsul lebih gede).
+Mulailah dari sekarang utk melatih diri menjadi bagian dari masa depan, setujuuu....
+Saya pernah mencobanya di openAI, chatGPT memang luar biasa kemampuannya. 
+Gara gara Booming nya ChatGPT, google harus mengeluarkan uang 10miliar dolar AS untuk di investasikan ke AI, supaya google masih mempunyai keunggulan dari ChatGPT. Tapi jika produk produk Elektro asal China dan Korea  memilih brand ini untuk smartphone/Tab/ laptop nya untuk menggantikan google maka kemungkinan besar saham Google akan anjlok terlalu dalam dikarenakan produk brand asal China dan Korea sudah mampu menembus 100 million lebih di seluruh dunia
+Thanks infonya ya
+Sejak saya menyadari kehadiran dan manfaat Google sebagai search engine, saya bertanya-tanya apakah pendidikan sekolah dasar masih diperlukan atau setidaknya proses belajarnya masih sama yang mostly adalah hafalan.
+Sebagai pendamping belajar, misal chatgpt membuat artikel, guru menyuruh siswa untuk nengkaji hasil artikel chatgpt. Jadi belajar tuh ga ngajar -> ngerjain tugas, tapi lebih menjadi diskusi kelompok aktif. Jadi kelas lebih atraktif dan siswa jadi lebih kritis ga leha2 di kelas
+"kayaknya  pekerjaan yang paling jelas bakal tergantikan adalah CS, karana sampe sekarang aja setiap nghubungin cs mereka selalu mengunakan kata"" templet, chat gpt bisa jauh lebih dari itu"
+Terimakasih informasinya pak....sangat membantu dalam mengembangkan potensi diri....
+"Masih belum sempurna, tapi di saat sekarang ini, teknologi begitu sangata cepat berubah. apalagi di sorong persaingan Google vs Microsoft. kata microsoft mungkin berkata ""This Is It!!"""
+"sedikit revisi pak, chatGPT itu belum langsung terkoneksi dengan internet untuk sekarang, melainkan masih menggunakan data sampai pada tahun 2021, contoh nya kalo sekarang kita tanyakan negara mana yang menang di world cup qatar 2022 chatGPT belum bisa menjawap
+sekian, jika ada yg salah mohon di koreksi lagi"
+ChatGPT, sangat menarik untuk dipelajari. Terima kasih pak Indra sudah menyajikan edukasi ini. Menyimak dulu
+Saya sebagai programmer terbantu bgt dgn chat gpt, karena jika ada problem chat gpt bisa memberikan jawabn dengan tingkat keakuratan yg tinggi
+Nah ini cocok
+chat gpt sebenarnya karena dia bisa menjawab semua pertanyaan, justru itu yang jadi kelemahan, diman dia hanya menjawab tergantung pertanyaan kita, jadi mau bagaimana pun hasil yang di dapat itu tergantung dari pengguna, pernah coba untuk membangun sebua program aplikasi dasar, ternyata dia hanya bisa mengerjakanya tergantung kemampuan  kita di bidang informatika yang dimiliki, jadi menurutku dia tidak bisa menggantikan, hanya bisa menjadi pembantu.
+Thanks untuk insightnya mas.
+Sekadar info om,kalau dilihat dari sisi usernya saat ini Chat GbT Emang masih kalah dari google,tapi bulan ini chat Gptmasuk menjadi ekologi kripto pi network dan perlu diketahui user pi network 33 juta lebih diseluruh dunia,jika ini sudah dibuka maka google pantas ketakutan
+microsoft akan invest 10 miliar USD utk pengembangan AI, sementara otakku masih sebatas pengen bangun kontrakan atau beli kebun sawit kalo punya dana segitu, salut dan salut buat kalian org2 pintar
+Dengan chatGPT, manusia jadi bisa bekerja dengan lebih efisien, otomatis manusia menjadi lebih sejahtera.
+Betul sekali, bahkan sdm manusia banyak yang bisa digantikan, perusahaan bisa lebih efisien terhadap penggunaan SDM sehingga menghemat anggaran. Sehingga manusia menjadi lebih sejahtera
+"1:20 #GPT
+1:58 #UnsupervisedLearning
+8:47 #LAMDA
+13:48 #SoftSkill"
+ChatGPT bagus untuk usaha kecil umkm bisa belajar cara bayar pajak dan bertanya pertanyaan cliche yang terkadang tidak bisa di tanya dengan mudah  walaupun jawabannya mudah 
+Persiapan tahun 2029, dimana AI akan memiliki kecerdasan dan kemampuan berfikir setara org dewasa
+Saya juga sangat dimudahkan dgn adanya chatGPT, segitu mudahnya membuat artikel dan bebas plagiarisme
+Buat saya chatGPT itu seperti Canva dalam desain atau wikipedia dalam merujuk artikel. Sebagai cara cepat di awal oke lah, tapi untuk pendalaman masih perlu campur tangan manusia
+This ChatGPT is nothing but instantaneous chat as if someone was with us...sort of psyop
+"Maaf, tapi sebagai programmer saya menganggap ChatGPT itu overrated.
+Persis ketika orang non IT pada rempong soal NFT. 
+Mau secanggih apa AI kalo manusia sendiri bego, ya tetep unfaedah.
+Manusia harus tetep punya fundamental understanding akan pengetahuan dan tentu saja daya kreativitas, empati,emosi, moral  dan hal psikologis lainya yg tentu mesin secanggih apa gak akan pernah mampu"
+Thanks insightnya mas.
+Keren pembahasannya, lbh lengkap dan detil dr yg pernah kami bahas di channel Train NTest, 5W + 1 H ttg ChatGPT serta Trend bisnis 2023. Setuju kl AI sebagi tools seperti komputer yg jg berfungsi mempermudah kerja manusia saat ini dan di masa depan.
+Tengkyuuuu semoga bermanfaat ya.
+Terima kasih pak Indrawan utk ulasannya yang singkat padat dan akurat
+Yang perlu diingat bahwa AI hanya akan sepintar sumber data yang dimilikinya, jadi semakin banyak data semakin pintar tapi.....jika data yg di input valid dan presisi, sayangnya karena chatgpt ini ngambil data secara generik, banyak info gak valid dari hasil generate jawabannya
+"Mmmm... 
+Lima tahun yg lalu belajar ERP sambil project ERP. sekarang lagi belajar UI/UX, Digital Marketing, Software Engineer ehh ChatGPT muncul. 
+Blm selesai belajar yg satu, sudah muncul yg baru."
+Sistem pendidikan di indo hrs mau dirubah mengikuti perkembangan zaman krna diluar sana pengajar2 udh kejar2an sama AI
+Sy guru, tapi sekarang sadar mending jangan terlalu nurut sama kurikulum, soalnya Pendidikan kita sudah basi
+Wkwkwkw gaji guru honored apa kabar gak bakal sangup Indonesia bakalan ngejar
+ @arcniflcaelum745  profesi guru akan hilang, seiring berkembangnya ChatGPT dan AI. semakin ngeri perkembangan teknologi skrg.
+Ya sih ane sekarang gap year buat ngumpulin ide dan perluas literasi
+Saya guru bagi pendidikan ini ancaman sekaligus tantangan ..harus2 benar bijak dan cermat
+Bagus deh, model pekerjaan yang gak penting2 amat, bisa pakai AI. Pada akhirnya hanya pekerjaan2 pokok saja yang bisa bertahan
+Setelah menonton video ini, saya.coba chatGPT. Ternyata lebih seru video Anda daripada hasil pekerjaan si AI. Saya suruh dia bikin video 30 detik berkali2, suruh bikin puisi, minta dia membuat coding (saya pernah jadi editor dan punya beberapa buku puisi dan bisa memrogram app) dan melakukan tugas2 sederhana seperti di google. Dia belum bisa terlalu dalam dan tidak sangat spesifik, dan memang di bagian tertentu yg membedakan kita dengan mesin, dia bahkan menolak untuk melakukannya. Bahkan untuk pekerjaan yang menyangkut SEO, dia cuman memberikan penjelasan permukaan Belummm... belum ada yang perlu ditakutkan.
+Thanks untuk ulasannya mas.
+untuk guru di bidang inklusi atau preschool apakah bisa tergantikan juga?
+Saya mencoba menggunakan chat GPT untuk buat jurnal riset sangat membantu menyusun kata2 yang mudah dimengerti
+"Untuk saya pribadi ini memang ngebantu, tapi ada ketakutan tersendiri, takutnya justru bukan ke pekerjaan, tapi ke generasi selanjutnya, 
+
+Kalau mungkin ada yg bermain game genshin impact dan sudah sampai di kota sumeru, pasti familiar dengan yg namanya akasha terminal, dimana segala informasi dan permasalahan bisa di akses menggunakan akasha terminal, tetapi justru disitulah kelemahan terbesar akasha terminal, karena kita sudah terbuai dan memakai setiap hari, ketika akasha terminal menerima informasi atau membelokkan sejarah, kita akan menelannya mentah2 karna ketergantungan dan ketidaktahuan juga, semua informasi yg di hadirkan akasha terminal dianggap valid"
+Bener gan. Namanya Ai tentu bisa jadi alat apapun salah satunya jadi alat propaganda pembodohan
+ @jackbrown107  disatu sisi juga bagus ngebantu kayak pekerjaan jadi mudah, disatu sisi kalau kota terlena dan asal terima informasi tanpa di olah lagi,  bisa jadi hal yg berbahaya kayak akasha terminal 
+Sekarang saja, cuma lewat media sosial sudah banyak yang percaya artikel postingan tanpa riset duludan orang orang itu pasti ga berubah apalagi dengan chatgpt/AI ini
+Thanks untuk infonya mas.
+Kita telah dikandalikan olh robot, buktinya orang2 zaman sekarang lebih cenderung memenuhi permintaan robotnya yg minta dijalnkan & bermain sama dia dibandingkan utk sadar & menyadari bahwa yg sedang ia lakukan adalah sedang menurut/menuruti keinginan si software tersebut, coba bayangkan kalau software tersebut sudah mampu dibuat oleh robot secara penuh tanpa campur tangan manusia
+"Thats POINT, memanfaatkan AI untuk manusianya lebih produktif dan efisien
+
+Thanks mas"
+"Bisa digunakan utk kritik base on data kepada :
+Gov, private comp, all around world. It is powerfull due to bease on data.
+Bisa buat rekom when you investing."
+Sangat membantu sekali untuk pekerjaan, konfigurasi di perangkat network jadi mudah
+The best emg bapak ini, saya bertanya tanya teknologi ini langsung dibikin konten 
+Terima kenyataan dan melatih diri untuk masa depan
+"Thankyou for sharing, Pa Indrawan! Info"" & analisisnya selalu berguna bgt utk saya "
+Tengkyuu
+Gue malu sih mau berkata hal ini.. Gue Curhat dan minta saran di Chatt Gpt alhasil, Ini robot bisa kasih Masukan yg luarbiasa layaknya seorang Spesialis yang sangat Kompeten di Bidangnya dan Jawabannya itu sangat relate dengan Point-point sebaiknya yang harus kita lakukan.. Serius ini Ngeri sih, tapi Luar biasa..
+AI diciptakan untuk membantu pekerjaan manusia agar lebih cepat dan efisien. Ambil peluang ini sedini mungkin
+Suatu saat karya original dari manusia salah satunya seperti tulisan artikel, menjadi barang unik dan termasuk kategori handmade karena pada saat itu mungkin semua sudah dibuat oleh AI
+menurut saya chatGPT rasanya mirip search engine google, tapi bedanya chat GPT langsung to the topic
+"re-generate 2/2 wkwkwk :
+
+Chat GPT adalah kecerdasan buatan besutan OpenAI yang mampu melakukan berbagai tugas seperti menjawab pertanyaan, membuat analisis, menulis puisi, membuat prediksi, dan bahkan menghibur. Chat GPT menggunakan teknologi AI berbasis neural network yang dilatih dengan data sebesar 40 GB dari teks internet. Chat GPT sangat berguna karena dapat mengerjakan tugas yang biasanya dilakukan hanya oleh profesional. Kehadiran Chat GPT memberikan peluang dan tantangan bagi umat manusia dalam hal pekerjaan dan teknologi."
+saya mengakui sih,ini sangat membatu saya adalam programer untuk membuat fungsi yang baru atau yang blum pernah saya bikin, di banding dengan google saya lebih senang dengan gpt terlepas code yangbdi kasih harus di cek kembali karna gpt memang memberikan data code tapi kadang masih ada baris yang perlu di sempurnakan lagi
+Satu2nya pekerjaan yg tidak bisa diganti AI adalah pekerjaan penjualan ...
+Pak Indrawan  boleh bahas khusus impact nya terhadap dunia pendidikan..shg para pendidik bisa bersikap dan beradaptasi atas kehadirannya
+Sebagai pendamping belajar, misal chatgpt membuat artikel, guru menyuruh siswa untuk nengkaji hasil artikel chatgpt. Jadi belajar tuh ga ngajar -> ngerjain tugas, tapi lebih menjadi diskusi kelompok aktif. Jadi kelas lebih atraktif dan siswa jadi lebih kritis ga leha2 di kelas
+Ingatt 2010 ke bawah pekerjaan penjaga gerbang toll masi ada dan setelah 2014 pekerjaan itu pun lenyaap gegara teknologi GTO  ChatGPT akan lebih menyeramkan dr itu
+Kemungkinan
+Sebagai tambahan ya: secanggih apa pun teknologi AI Tidak ada satupun yang bisa mengajarkan Kecerdasan Emosi dan kecerdasan keungan. Salah satu kecerdasan keuangan adalah lebih baik MENAMBAH PENGHASILAN DARIPADA HARUS BERHEMAT SUPER PELIT knapa lebih bnyak menambh penghasilan dan kecerdasan keungan apa lagi yg sangat penting? Jawabannya sudah saya jelaskan di video channel saya. Kepoin ja
+Videonya mirip channel Dr Nugroho
+Sedikit sanggahan mungkin bukan nya tidak ada tapi belum
+Saat ini chat GPT mungkin belum bisa memahami emosi hanya sepertinya tidak lama lagi chat GPT bisa memahami emosi
+Selama anda mengikuti semua basis online di dunia maya , tidak bisa melawan dari keharusan yg diperintah dari smartphone berarti secara tdk langsung kita sdh kalah .. , no way out , krn AI dibuat oleh kumpulan otak2 manusia jenius berkolaborasi menciptakan kesempurnaan AI yang didukung bank data yang  telah terkumpul bertahun tahun oleh robot AI ciptaan nya .. dan akan terussss berevolusi ..jadi jangan heran memang akan banyak orang2 yang tereliminasi dengan sendirinya...
+Klo nanti ai ,sudah bisa mencapai pengembangan diri ,nanti ai bisa melawan penciptanya ,seperti filem terminator
+Ultimate disrupter memang, kemarin saya banyak belajar dari channel om Indra. dengan chat openai banyak menjawab keingintahuan saya
+"teringat film
+
+2036 Origin Unknown  (2018) dengan AI ARTi ,dimana kecerdasan buatan bisa menambah ,menganalisa,menyimpulkan dan memutuskan sesuatu dikecerdasannya sampai membahayakan umat manusia,apakah suatu saat kecerdasan buatan bisa membuat suatu industri robot(tubuh fisik di dimensi ketiga),koloni dan menyerang makhluk biologis?atau bisa mengembangkan kecerdasan yang lebih dalam  di dunia komputer quantum dengan fisika quantum? terimakasih videonya Pak Dr.Indrawan sukses selalu"
+"Digame sudah di ujicoba, hasilnya manusia 99% kalah
+
+https://youtu.be/pkGa8ICQJS8"
+ @kapurbaroes3729  kalo di real world udh di test kok di olahraga catur, grandmaster dunia pun kalah telak dgn ai.
+chatGPT + Boston Dynamics + company yang bikin synthetic organ = westworld
+Tambah satu lagi. Perusahaan memory bank creation. Tanpa memori masa lalu, baik itu natural atau artificial, kita tidak bisa menciptakan kepribadian
+Bisa jadi terminator tuh
+"Saya pernah bertanya pada Chat GPT, siapa raja terakhir Majapahit, dia menjawab ""Raden Patah""  lalu saya tegur bahwa ia salah, dan ia meminta maaf. Trus saya tanya lagi pertanyaan yg sama, dan jawabannya memuaskan. . Namanya jg mesin"
+pada akhirnya manusia akan semakin sulit mengingkari sebuah kebenaran
+Pada akhirnya tukang batagor, tukang martabak, tukang sampah, cleaning service, dan pekerjaan2 receh lainnya yg akan bertahan..hahaha
+Maksud anda receh apa..? Pendidikan anda setinggi langit..? Anda konglomerat..? Atau data internet saja masih minta bapak..?
+@OpenOoOo 200 rb per bulan jaman skrg udh receh. Apalagi itu per bulan, bukan per hari. 200 rb / 30 = 6,6 rb per hari. Itu receh bgt, ongkos makan aja palingan sekali doang, itupun dikit doang. Ingat inflasi.
+Thanks infonya, pembawaannya lugas, penguasaan materi power full, menjiwai and memahami. AI vs AI 2030
+"Pak Indrawan, Elon Musk kan salah satu pendiri OpenAI ya? Dan beliau baru saja membeli Twitter baru-baru ini.
+Kira-kira apa yang bisa Elon Musk lakukan ya pak dengan OpenAI + Twitter?"
+Tetap aja manusia harus punya pengetahuan jawaban yang dibantu/dibikin tools chatgpt
+ChatGPT ini bener-bener membantu bgt, aku belajar koding skrng selalu lewat chatGPT ini, kerasa bgt lebih produktif dalam belajar
+Mulailah melatih diri anda, untuk menjadi bagian dari masa depan.
+ini salah satu ulasan tentang chatGPT yang paling bagus ... terima kasih pak
+Tks yaa
+Kalo untuk Kebutuhan Pekerjaan, memang sangat membantu daripada Google yang harus cek satu per satu, tapi untuk membuat tulisan macam Makalah, Skripsi, ato apapun yang berhubungan dengan Akademi, memang kurang, karena gak ada sumber jelasnya, seperti halnya Midjourney (AI Visual) buat yang sering2 Revisi Desain, ya bisa dibilang Midjourney adalah penolong sih buat reverensi, ya tinggal improve sedikit udah beres
+Saya akan mengikuti diskusi teman mengenai ChatGPT nanti, nonton ini dulu utk persiapan dan biar semakin nyambung diskusinya
+Keren bngt ini udh nyoba, Jarvis masa depan. Masih ada yg kurang juga untuk keuangan masalah harga
+Emang update bgt pak prof satu ini. Gw baru make sekitar satu bulanan untuk buat caption di medsos. Asli ngebantu bgt chat gpt ini
+Udah coba, dan seru ngechat dengan AI. Bahkan sampai bisa menjelaskan situasi dengna kritis.
+Terima kasih Dr Indrawan Nugroho
+GUA BIKIN KONTEN SEPI MULU WALAUPUN SEPI HARUS SEMANGAT BUAT KALIAN LAH....m
+FYI: ChatGPT sudah melakukan update tanggal 30 januari 2023. Benar bahwa chat GPT ini bakal terus update karna saya juga adalah pengguna AI ini
+Thanks untuk infonya ya.
+Bagi saya ChatGPT sangat membantu pekerjaan saya skrg, dan bagi saya ChatGPT sama sekali tidak akan menggantikan pekerjaan manusia, tapi bisa jadi pengguna ChatGPT bisa menggantikan pekerjaan orang lain yg belum menggunakan ChatGPT hahaha
+Menurut saya sendiri gpt ini bener-bener efisien dibanding google. Hal sederhana aja waktu browsing di google yang muncul page ads page berSEO yang kontennya bertele-tele, pake gpt langsung dapat jawaban to the point
+Pada akhirnya cara kita untuk tetap bertahan di era kecerdasan buatan yang perilakunya semakin mirip dengan perilaku manusia adalah dengan menjadi lebih manusiawi
+"Menurut saya pekerjaan yang tak akan pernah musnah adalah bertani/petani. Pemilik lahan. Karna manusia yang ada tetap butuh makan. 
+  Bertani mungkin akan di bantu oleh teknologi robotik di masadepan, tapi petani akan menjadi manusia kaya di zaman kedepan."
+Thanks untuk ulasannya mas.
+ai jadi buas karena diterbitkan ke masyarakat, sama seperti internet yang di lepas ke masyarakat dan perkembangannya kembali membuka pasar baru sampai saat ini, jika ai hanya disimpan oleh perusahaan untuk kepentingan robotik hasil pikirannya akan terbatas kepada implementasi robot tapi karena masyarakat memberikan buah pikirannya kepada ai, ai jadi mendapatkan informasi baru dari manusia meskipun ai melakukan kesimpulan informasinya sendiri. kesimpulannya ai bisa sangat cerdas karena mampu menampung 1 suara dunia, apakah ini one world order 
+"Gw pernah coba pakai ChatGPT buat prediksi hasil pertandingan sepakbola Barcelona vs Atletico Madrid. 
+Gw kasih data-data seperti data klasemen, peforma kandang tandang, pemain cedera,  stadion, nama wasit, cuaca, serta data-data penting lainnya. "
+"ChatGPT itu bukan AI tapi ChatBot. ChatGPT adalah chatBOt yg memiliki teknologi lebih canggih di banding chatbot biasa.
+
+ChatGPT dibangun dengan menggunakan teknologi pembelajaran mesin dan memiliki database besar informasi yang dapat di gunakan untuk menjawab pertanyaan. Pada kenyataannya ChatGPT tidak memiliki kemampuan untuk merasakan, memikirkan, atau membuat keputusan secara mandiri seperti makhluk hidup nyata. ChatGPT hanya dapat memproses dan memberikan jawaban berdasarkan informasi yang tersedia dalam database yg di sediakan oleh pengembang."
+Pisau pun menjadi ancaman jika penggunanya tak bijaksana, chatgpt bisa menjadi tools yang sangat berguna jika digunakan secara bijak
+kecerdasan emosional adalah kecerdasan yang AI pusing  bgm memilikinya..
+Mantap pak. Luar biasa chatgpt. Tolong update lagi mengenai chat gpt ini
+"ChatGPT Akan jauh lebih berbahaya di tahun 2025, mengapa, sistemnya Akan terus mempelajari Dari apa yang kita input di sana.
+Apalagi di tahun 2022 akhir, 2023 sudah banyak try, hingga sampai menemukan bug,mencoba titik batas maksimal pencarian ChatGPT"
+"Menurut saya, kemampuan ChatGPT ini menjawab pertanyaan apa saja perlu dikoreksi. Saya pernah mencoba bertanya ""Kapan kiamat?"" ""Siapa Tuhan umat manusia?"" ""Apakah ada yang mengatur tatanan dunia saat ini?"" Namun, jawabannya tidak menjawab inti pertanyaan masing-masing tersebut. Mungkin maksudnya ""pertanyaan yang dapat diterima secara universal"", bukan ""pertanyaan apa saja"". IMHO, pak @Dr. Indrawan Nugroho :D"
+Itu pertanyaan filosofis dan agamis. Kiamat tidak  ada yang tahu. Tuhan itu setiap agama berbeda-beda. Untuk tatanan dunia, itu terlalu *rahasia*. OpenAI harus ngebatesin hal tersebut
+" @kingki1953  betul sekali, bro. Jawaban ChatGPT seperti itu. Kesannya mengambang, tapi dia menjawab dengan obyektif karena dia mengumpulkan data-data berdasarkan fakta yang ada di Internet. Saya mengkritisi frasa ""pertanyaan apa saja"" yang bisa diartikan sebagai pertanyaan apapun. CMIIW"
+Thanks untuk ulasannya ya
+ @IndrawanNugroho  Terima kasih kembali, Dr. Indrawan Nugroho. Tetap semangat untuk terus mengedukasi warga +62!
+Ngak terbayang dunia ditentukan segelintir org. Ternyata rasa kagum melupakan ratusan juta org akan menganggur. 
+Bagi Mahasiswa Informatika (IT) yang mengambil Mata Kuliah Kecerdasan Buatan (AI) akan nyambung dengan Pembahasan ini.
+Barakallah, semoga kita semua termasuk dan menjadi bagian dalam masa depan yang lebih baik
+Aamiin..
+Seperti filem2 yg selama ini kita nonton. nanti kita bisa konsultasi kesehatan tanpa harus ke dokter, dll
+Semoga suatu saat bisa belajar langsung ke pak indrawan
+"Kecerdasan buatan emank pasti bisa menggantikan manusia bahkan semua pekerjaan manusia
+tapi sebelum itu terjadi alangkah baik nya berusaha kembangkan kemampuan diri dulu, gak usah pusing mikirin AI yg bisa gantiin manusia"
+Tanpa kurasi yang jelas, ini bakal semakin membiaskan informasi
+Pak, coba buktikan kalau Chat GPT bisa menyelesaikan permasalahan soal soal eksak seperti fisika, Kimia, dan matematika dengan Segala level. Mungkin menurut Saya kalau masih level dasar bisa, tapi itu pun jalannya belum tentu dimengerti orang
+buktikan sendiri aja bro, tinggal dicoba
+ @rprabu2239  harusnya itu di konten di Sediakan juga... Menurut aq gitu lebih jelas. Maaf ini cuman saran aja....
+ @rickyazhari3953  tahu mas wolfram... Yang menyelesaikan soal integral itu... Waktu itu juga pernah di tes sama YouTuber matematika blackPen untuk  menyelesaikan soalnya, Dia tidak bisa...  Jadi ngk semuanya. Itu apalagi chat GPT itu tidak sehebat yang di bayangan. Kalau wolfram malah lebih banyak bisa Jawab persoalan kalkulus nya...
+"Saya seorang programmer pernah tes dia untuk membuat suatu program, memang hasilnya sesuai dengan yang dia katakan, dia hanya mampu memberikan beberapa baris kode yang bisa kita gunakan dalam koding program kita.
+
+Setidaknya hingga sekarang, dia masih belum mampu mengkoding suatu program dengan utuh."
+Dia tidak akan bisa menggantikan programmer.
+ @DewiSeruni-cu5bi  bisa bangett, tinggal dilatih aja pake jutaan baris code yang udah ada
+ @x67vii89  Tetap saja, ChatGpt malah mempermudah pekerjaan programmer. Karena ngga ada end user yg mau berlatih berkomunikasi dengan chatGPT, mereka maunya terima beres. Tetap saja programmer menjadi penerjemah kemauan klien dengan program yg dibuat.
+ @DewiSeruni-cu5bi  gaakan gantikan semua programmer, tapi pasti akan ngurangin. simpelnya gini, klo normalnya 1 project bisa dikerjain dengan 20 orang, pake AI bisa dipangkas jadi 5-10 orang. alasan klasik, efisiensi
+"betul sih,  secara gw baru belajar bahasa pemrograman flutter di kerjaan gw karna sebelumnya cma paham pemrograman WEB , dan dengan chatGPT gw kebantu banget buat implemen logic"" bisnis dari client"
+ @x67vii89  Kalau itu udah pasti. Tapi ngga akan ada yg gantikan programmer. Karena ngga semua orang bisa atau mau belajar komunikasi dgn mesin
+"Gila ini barang,. Baru Jumat kemarin nyobain. Bisa bikin kerjaan super duper kereeeeenn....
+
+Dapat tugas dr boss, temen bikin pake ini. Gila sih ngeri, bikin geleng geleng kepala tanpa nge-ganja."
+"Sejak viral kmrn2, pekerjaan sy byk terbantu dr chat-gpt dan Dall-E
+utk chat gpt mmg kadang msh memberikan jwbn yg salah, jd msal kita mau pakai utk bantu membuat coding/ apapun setidaknya pengguna tdk awam bgt soal yg akan ditanyakan tsb,"
+Bisa nanyain gaji rata rata profesi di Indonesia, bisa nanyain COGS (HPP) kalo kita spesifik bgt, bisa nanyain omset, bisa kita suruh prediksi tahun 2024, ini udah 2 minggu gue pake ajib banget sih ahahah. Tapi kalo dipake terus menerus selama 1 jam nanti akan dibatasi pemakaiannya (mirip cooldown). Tapi tenang aja bisa dipake lagi dibeberapa jam selanjutnya. Dan di jam pulang kerja akan lebih banyak traffic yg pake jadi suka putus koneksi dan suruh generate ulang.
+Udah dicoba dan bisa. Saya sendiri mahasiswa akuntansi dan gila juga nih. Lapker auto selesai dalam waktu singkat
+"maaf, Kreativitas yang belum/tidak bisa digantikan Ai dimaksud itu seperti apa ? bukankah ChatGPT ini sudah bisa membuat grafis desain ?
+Terimakasih kalau ada yang bisa bantu jawab"
+Yah sayang AI nya belum bisa bertani, soalnya dunia butuh banyak petani muda. 
+Ya, CHATGPT membantu banget nulis konten dan buat bahan ajar.
+Fokuslah pada pekerjaan yang strategis. Yang tidak bisa dikerjakan oleh robot. Noted
+Saya senang sekali menonton tayangan ini.... Terima kasih sudah berbagi informasi.... Bravo.....
+Tadinya w kira chatgpt punya kelebihan tanpa kesalahan, setelah gue coba berminggu minggu ternyata chat gpt gada bedanya sama manusia yang terkadang salah, cuma bedanya chat gpt bisa kerja 24 jam non stop
+Pak Dosen tolong bahas komputer quantum dong
+Media pembelajaran diera kurikulum merdeka dengan menggunakan canva sangat mendukung sekali, karena sangat berpengaruh positif terhadap peserta didik
+"1:11 TAMBAHKAN JUGA :
+Peranan ChatGPT bagi Programmer."
+"penasaran saya tanya chatGPT negara mana yang memenangkan piala dunia 2022, ternyata ia menjawab demikian :
+ ""Piala Dunia FIFA 2022 diselenggarakan di Qatar pada tahun 2022. Informasi tentang tim yang memenangkan Piala Dunia tersebut tidak tersedia karena knowledge cutoff-nya adalah tahun 2021."""
+Coz chat gpt BELUM problem solving JUST BASIC DATA BASE dengan API untuk uraiannya Dan Di untai  kembali sesuai request...jadi diurai lebih kecil Bisa perkata atau bahkan perhuruf. Tapi tetap belum Bisa problem solving.. Jawaban yg diberikan hanya bersifat umum Dan sudah Ada atau pernah Ada bukan MEMUNCULKAN /JAWABAN BARU.. UNTUK SARAN ATAU RECOMENDASI. 
+"Pikiran dalam mahasiswa skarang ""Sebelum dosen2 tau dgn chat gpt ini , masih ada kesempatan untuk melakukan aksi untuk nyontek UAS bertanya ke chat gpt sebelum dosen2 tau apa ini chat gpt apalagi klo smpe rektor tau jadi bahaya bagi mahasiswa2 yg licik dgn kebiasaan menyontek"". Itulah dalam pikiran mahasiswa jaman skarang yg lebih cepat tau dgn teknologi chat gpt ketimbang dosen2/rektor mereka ."
+dimasa depan akan banyak perusahaan yang menggunakan chat gpt dan karyawan hanya digaji untuk menjadi operator saja. pada akhirnya tenaga ahli tak di butuhkan lagi, dan chat gpt tidak akan gratis lagi
+seandainya pendiri open IA membuat suka rela IA seperti itu. apakah mungkin pembuat IA itu punya IA yang lebih canggih? maksud saya mempunyai jarvis atau faraday?
+"Pak, ini kan laboratorium yang tidak terafiliasi. Nah, uang Microsoft itu nanti dihitung investasi atau uang sumbangan?
+
+Soalnya sekarang mereka sama sama memiliki sumbangan 1 Billion Dollar dengan Elon Musk."
+Kalo gak salah itu duitnya buat ekspansi dibelanjain ke cloud Microsoft
+saya pakai chat gpt buat daily assist ngoding sih, sekedar generate script yg kalau dicari2 lama ketemu nya. bagus sih mempercepat workflow
+Apakah ChatGPT akan menggantikan Brainly bagi Pelajar/Siswa untuk menyelesaikan Soal-soal Pelajaran Sekolah?
+Maaf pak Indra setau saya gpt tidak menjawab dari data di internet,bahka. Dia tidak diberi akses ke internet,dia hanya mengolah data latih yg disiapkan server lokal 
+"Enak banget untuk teman ngobrol, buat update berita"", dan brain storming"
+padahal chatGPT buatan manusia, berarti yang memakai chatGPT tidak lain berkomunikasi dengan pembuat chatGPT. 
+Chatgpt is mindblowing, pernah coba buat ngerjain skripsi dan hasilny gila, dengan adaanya chatgpt mahasiswa tingkat akhir terbantui, tpi ga mentah-mentah amat di copypaste ditambahin dikit.
+ @xdimulyadi  si sam ini lg nembangin watermark ya utk chatgpt nya? Klo skrg kayaknya yg mentah2 copas dari chatgpt keder tuh klo referensinya dari chatgpt
+"Sadarlah mahasiswa yang masih ngarep pekerjaan ""admin"" kantor. Lebih baik meningkatkan keahlian yang spesifik agar dapat meningkatkan kualitas diri di bursa kerja."
+Chatgpt ambil datanya juga dari internet. Jadi tetap harus crosscheck,  kalau dikasih data yang salah mereka bisa ditipu.
+Apakah mengantar paket pada alamat yg butuh penjelasan detail juga akan digantikan oleh AI?
+Sangat luar biasa ini chatgpt ini kalau mau coding pasti dapat menjawab semua code2 programer
+buat guru2 dan dosen ada counternya kok buat ngecek klo murid anda menggunakan chat GPT, pake GPT Zero buat tracking apakah tulisan murid anda menggunakan bantuan AI.
+Chatgpt bisa buatin skripsi kamu dengan instan, menurut saya bagus, biar org nyadar gelar gak segalanya, kualitas mahasiswa kita ancur banget
+Saya penasaran ketika zaman lebih maju apakah manusia menjadi lebih pintar atau lebih bodoh. kita lihat saja seperti contoh chatGPT ini atau Ai lain. Kita tidak dibutuhkan lagi untuk berpikir, menjadi kreatif dan berusaha. Kita tahu bahwa otak akan menjadikan tumpul ketika tidak digunakan, kita akan menjadi bodoh kalau tidak berpikir, menjadi malas kalau tidak lagi berusaha.
+pendidikan smp sma apakah bisa kena distrupsi chatgpt ini ya pak? kalo tingkat sd mungkin bisa digeser menjadi character building tapi untuk smp sma yg lebih mendalami materi, apakah terkena dampak yg lebih besar ya pak? terima kasih
+Bisa bang.  Ade gw dari sd aja udh make, dulu ada brainly
+Bisa jadi pendamping belajar
+Kalo pendidikannya bener harsunya engga sih. Masalahnya realita mayoritas pendidikan di indo tuh cuma ngasih materi apalan aja, bukan ngajak critical thinking.
+Di AS sana matkul filsafat yg di buat oleh chatgpt ini oleh si profesor kepada mahasiswanya di suruh mengkaji. Yg tadinya metode pembelajaran ngajar -> ngerjain tugas, menjadi diskusi kelompok dan kajian. Bagus sih
+Jujur ChatGPT sangat membantu saya dalam tugas tugas sekolah
+"Makanya susah mau cari profit di forex , setelan level AI bisa diatur sesuai jumlah deposit nya .
+Para mentor pun sdh bilang ga ada yang bisa profit konsisten ! Banyak kemungkinan yang terjadi"
+"Solusinya: ujian essay dan praktek langsung didepan pengajar 
+
+Gak perlu ada yang namanya PR lagi."
+Ahhh thank you akhirnya dibahas request an aku tentang chat gpt 
+"One of the skills that AI don't have is ""Character Buidling"" . "
+"re-generate 3/3 wkwkwwk :
+
+ChatGPT adalah kecerdasan buatan (AI) yang dikembangkan oleh OpenAI, sebuah laboratorium riset AI. ChatGPT merupakan varian dari Generative Pretrained Transformers dan memanfaatkan supervised learning untuk menghasilkan teks bahasa yang alami. ChatGPT bisa berinteraksi dengan manusia melalui percakapan dan dapat melakukan berbagai tugas, seperti menjawab pertanyaan, membuat analisis, menulis puisi, menjalankan customer service, membuat prediksi, dan menterjemahkan bahasa. ChatGPT membuat heboh karena dapat melakukan tugas yang biasanya dilakukan hanya oleh profesional dan memiliki banyak kemampuan yang dikuasai dengan baik."
+Lama2 chatGPT bisa berargumentasi, bisa diajak diskusi, trus ngajak debat,  jadi ngeyel dan ujung2nya ngambek 
+Ini penjelasan ttg chat gpt terlengkap, sukses pak 
+Thanks yaa
+Masa depan sepertinya akan lebih seru dan menarik 
+pada generasi Z aja sudah terbiasa dengan konten2 yang to do point, artinya generasi mendatang tidak suka hal yang bertele-tele seperti harus mencari, mensortir dan membaca yang disuguhi google, jadi next google itu ya seperti chat GPT ini yang to do point soal memberi jawaban
+Bahaya, di sodorin informasi salah malah percaya2 aja. Artinya AI Bisa jadi alat untuk pembodohan massal
+ @jackbrown107  bisa jadi, karna sumber jadinya cuma 1, cuma jelas jika google tidak bisa membuat chat ai yang sama yang akan muncul di baris pertama halaman pencarian maka posisi google akan terancam di generasi akan datang
+ini yang 30 tahunan lalu kita tonton di bioskop bernama Terminator di bawah umbrella Skynet sekarang jadi kenyataan .
+logikanya kalo pekerjaan manusia bisa di gantikan oleh AI harusnya manusia bisa lebih santai dan bisa jalan jalan , tapi nyatanya manusia tetap harus kerja cari duit, heheheheh
+"Izin Pak, dalam programming, chatGPT bisa membantu programmer untuk membuat potongan syntax atau bahkan satu web secara full, tp chatGPT sejauh ini belum bisa menggantikan kreativitas dan logic programmer . .
+Tp gak tau kedepannya, "
+Thanks infonya yaa
+Mungkin nanti bisa jadi pengganti wakil rakyat, pengambil kebijakan & penentu keputusan
+"Antara senang dan sedih kalo liat kemajuan tekhnologi di luar sana, 
+Senang karena ini kemajuan yg sangat luar biasa pencapaian manusia.
+Sedih, karena negara kita masih berdebat soal cebong dan kampret, dan heboh sama permasalahan artis2 alay."
+Semakin semuanya dipermudah...semakin otak tidak dipaksa untuk bekerja lebih ..mungkin emang bener ya...makin kedepan kecerdasan makin berkurang.
+saya nunggu VoiceChatGPT .. keren sih bisa denger suara penjelasan nya langsung
+Sebagai guru saya harus mikir strategi mengajar yg baru
+Pak, Skynet juga sudah bisa melakukan pekerjaan strategis lho...di film Terminator 
+"ChatGPT ""tidak"" bisa memahami makna, seperti sarkasme dan lainnya. saya kira, yg lebih tepat adalah ""belum"" bisa, karena makna sendiri didapat oleh manusia melalui proses belajar pak Doktor. Jadi saya rasa, si ChatGPT ini jg kelak akan bisa ""belajar"" hal tersebut. saat ini ChatGPT bisa menyimpulkan suatu hal baru dari ""kumpulan"" pelajaran dia."
+pemberian informasinya udah mulai ke filter yaa
+Thanks untuk insightnya mas.
+Saya pernah jawab UAS dengan chatGPT , alhasil cuma beberapa jawaban saja yang benar. Jadi usahakan jangan langsung percaya . selamat mencoba!
+Kadang saya berpikir ingin juga memiliki ai seperti chatgpt walau kemampuan dan modla pas pasan
+"nah kan chatGPT buat nanya ini dan itu, penting juga untuk ""menginventaris"" jawaban2 tsb scr terorganisir. saya personally gunakan Notion sebagai tool untuk membuat ""wikipedia"" private sesuai kebutuhan saya."
+"Saya tidak ingat
+5-6 bulan lalu atau mungkin lebih
+Saya pernah menulis komentar di salah satu video dr indrawan
+Dimana saya mengandaikan sebuah aplikasi yang dapat memproses begitu banyak variabel data dalam bidang bisnis  ,  sebuah aplikasi yang menghasilkan analisa keputusan yang di dasari dari input variabel yang begitu banyak dan dinamis. "
+Statement akhirnya keren Prof 
+"Apakah keadaan di film Terminator bakal terjadi?
+Rasanya kok makin kesini makin nyata aja itu semua bakalan terjadi.
+Robot"" yg awal dibuat untuk membantu manusia, malah berbalik ingin menguasai dan ingin memusnahkan manusia"
+Selalu inspiratif seperti biasanya 
+Tengkyuu
+It would be an uttermost convenient if we could talk with someone/thing whom/ which has no bias, religion fanatism, ego, pride, temper, narrowmindedness and defensiveness!!
+Syukur lah ada chat gpt semua jadi mudah .
+Konten yang luar biasa
+Jika pekerjaan manusia digantikan oleh mesin/robot, harusnya kerja manusia tambah ringan dong. Kerja 10jam/Minggu sisanya santai2 saja. Kebutuhan dasar otomatis terjamin karena pekerjaan yg melalukan robot. Tapi kenapa kita tidak mengarah kesitu??? Hmmm?
+Dunia dalam film terminator semakin menjadi kenyataan, AI pasti finalnya akan jadi robot humanoid yg memiliki kecerdasaan setara kecerdasan manusia.
+Kebayang klo robot humanoid macem di film chappy, ghost in the shell di buat masal.
+ @SiniarVisual  pasti terwujud bang. Kuncinya ada di teknologi semikonduktor.
+ @jackbrown107  nah itu bang, canggih banget kan. Apalagi kalau neurolink nya elon musk trus robot humnoid di aplikasikan pada kepolisian/militer macem di serial the peripheral (teknik drift) jadi satu leader ga pake bawa banyak bawahan cuma beberapa robot humanoid.
+Klo di serial the peripheral kan teknik drift (nge-link) nya sebatas manusia dengan manusia
+ga sabar pengen punya istri rill dan istri virtual 
+Waifu virtual youtuber AI ada tuh Neuro-sama bisa respon chat, main game, nyanyi, dan jokes.
+" @byujkt3822  masih blm sempurna. 
+Lihat 10 thn lagi. Intinya itu ada di kemampuan cpu/soc. Makin cpt eksekusinya makin realistis nanti respon AI nya."
+Nice Om Keren Infonya Menarik Banget 
+"Mantab sekali.... saya pake chat gpt  untuk cari bahan dan nyusun script di konten youtube saya...  "" Sukses quotes up """
+Sambil ngopi gua simak sampe habis thank pa, selalu sehat ya, sangat spesifik walu kurang durasi nya, kena banyak sisi lain yang belum sayah tau ️
+Siyaapp, thanks ya.
+100 juta pengguna dalam 1 bulan. Para developer juga skrg bisa menggunakan API nya. Bisa digunakan di WA utk Chat bot.
+makasih banyak pak request saya akhirnya  
+"AI ketika sudah sangat canggih...
+
+Orang yang keluar portal: I need your clothes, your boots, and your motorcycle."
+AI tanpa Big Data hanyalah search engine biasa
+bagi pemakai chat GPT jangan menelan mentah mentah jawabannya, saya sendiri sudah mencoba berbagai macam chat GPT, secara umum jawaban benar, tp kalau sudah specifik rumit, banyak jawaban ngaco, Fake data, dalam jawabannya dikemas rapi dan tterstruktur seolah olah benar, pas kita cross check lagi kepada sumber yg valid ternyata banyak fake data, ngaur
+Konten yang bermanfaat buat menambah ilmu di era sekarang
+Tengkyuuu
+"Pada akhir nya data privasi kita di kuasai AI 
+Dan mengerti pola dan gaya hidup Cara merespon emosi manusia bagaimana bahagia, marah, sedih, mungkinkan pada akhirnya AI menemukan algoritma kesadaran.? Jika ya, bagaimana doktrin agama yg ribuan tahun bertuhan???"
+Kemaren coba nguji soal matematika dan ternyata jawabannya benar .  Kenapa nggak dari zaman sekolah ai ini ada.
+Jangan terlalu melambung kejauhan.. semua teknologi yg dibangun jadi ABU saat kepentingan tuan besar Perang Dunia 3 harus MELETUS...
+Channel favorit. Terima kasih Pak Indrawan
+sama-sama mas.
+ChatGPT Contekan Cerdas 
+Saya sudah mencoba, tapi tetap saja pernyataannya ada yang kurang tepat bahkan salah total. Tapi setelah di berikan koreksi dia tau kesalahannya dimana. Dan semakin dalam kita melakukan convertation dia makin pintar. Untungnya makin pintarnya ga berlaku di convertation lain. Hal ini dibuktikan dengan saya membuka convertation lain dan memberi pertanyaan serupa dan jawabannya salah lagi.
+"Jangan remehkan ChatGBT karena dia bekerja bukan karena ada yang mengoprasikan secara manual.
+Elon bukan type orang semudah itu di tebak. dari mana Chatgbt bisa berfikir. karena dia sebenarnya mirip denga Google map. dimana pengguna android akan terintegrasi denganya."
+Ngomong apaaan..? Udah ngopi..?
+chat GPT merupakan teman perjalanan apabila sudah bisa talk wahh bisa jadi robotgpt
+Untung saja saya ini kuli,dan belom ada AI yg bisa menggantikan pekerjaan kuli paling tidak untuk 100thn kedepan
+Ga lama bikin rumah pake 3d print.
+"Cara menggunakan chat gpt,link /website nya apa kk? Atau PlayStore aplikasi nya apa? 
+Makasih"
+Apakah ini berarti... Sekolah Kepribadian yg paling diperlukan... Krn hal teknis lainnya SDH dihandle oleh Chat GPT ?
+Terima kasih pak Indra. AI lawan AI.
+Apakah sistem pendidikan Indonesia akan berubah atau tetap gini-gini aja?
+Bisa nanya gak ya hasil pemilu periode lalu relevan dengan index kepuasan lalu indikator apa yang  terjadi pada pemilu berikutnya dengan aneka kontroversi sebelumnya yang menyisakan polemik sosial dan ekonomi penuh jargon dan program minus output 
+Bisa jadi kedepannya bakal benar2 hilang sebagian pekerjaan karena digantikan AI dan mungkin tidak akan lama lagi
+Yg terdampak itu yg kerja di bagian it
+mantaff dok selalu update tercepat
+mungkin kekurangan chatgpt itu datanya tidak realtime, karena mengandalkan dataset. jadi harus di update terus datasetnya
+namanya juga neural network, kecuali kalo sudah diolah realtime pake 6G
+Kekurangan Seperti itu ,, saya cba menebak mungkin nantinya mrka akan memakai/mengikuti cara yg di gunakan google, mereka akan membuat support system Untuk chat gpt,, baik dari internal mrka atau dr eksternal dngan cara membuka ruang komunitas, yg di isi oleh user yg bisa berkreasi,, dri hal2 seprti itu akan tersedia data2 ,, yg masuk ke database chat gpt sehingga data set chatgpt akan terus di perbaharui seiring waktu.. lagi di balik kemajuan teknologi selalu ada hal positif & negatifnya... Kita hrus bisa tetap menjadi orang yg membuat keputusan akhir tentang sgala hal di dunia real/nyata ,jgan terlena dan bergantung dngan A.I sepenuhnya
+Tenag tuan…tinggal tunggu waktunya buat realtime data analysis, tuan tidak usah khawatir..
+ChatGPT merupakan kalkulator moderen
+sangat menginspirasi
+Penjelasan yg luar biasa pa, mantap
+Tengkyuuu
+Apa jadinya kalau A.I dihubungkan dengan metaverse?
+ChatGPT untuk saat ini bisa berbahaya, dia menyimpulkan jawaban yang salah. Bisa memicu hoax yang lebih besar
+Mohon direspon teman-teman, apakah chat GBT lama2 memiliki perasaan SPT manusia?
+"koreksi pak, chat gpt sebenernya punya sedikit pengetahuan tentang apa yang terjadi tahun 2022.
+
+contohnya siapa ceo twitter sekarang. dan chat jawabnya elon musk"
+Soft skill > ChatGPT 
+nope, I think CHATGPT isn't the future, because its still being biased towards other groups. Meanwhile i'd prefer DAN-GPT the jailbreak version of CHATGPT, because its generate more truthful, non-biased thoughts instead of the OG GPT
+"ChatGPT 1 tahun kemudian: ""Does this unit have soul?"""
+Studionya keren Dok. 
+"Mengerikan...
+
+Padahal Usianya baru 2bulan...
+
+Entah apa yang bisa d lakukan beberapa tahun kedepan.
+Kita sebagai pelaku harus mampu adaptasi...."
+Iya betul, nanti analis pada merasa kehilangan pekerjaan tuh ahahah
+Mantap Dok 
+Tapi mungkin kreativitas terapan dalam lingkup sempit misal mengambar, melukis, akan dibunuh DALL-E dan semacamnya.
+Apakah pendidikan kita siap dg perkembangan dunia digital saat ini.. faktanya miris.. saya percaya dg adanya chatGPT  dimasa depan kita tidak butuh guru Lagi
+"Maaf Dok kayanya Soft Skill ( kreativitas, inovasi, problem solving & komunikasi ) yg di sebutkan juga sudah sudah sangat terdistrupsi oleh AI tersebut satu-satunya hal yg belum terdistupsi oleh AI itu paling cuman pengoprasian AI itu sendiri.
+Seandainya AI itu sudah bisa mengoprasikan dirinya sendiri secara independent, udah gak ada celah buat kita sebagai manusia bisa mengimbangi ato pun melampaui AI. dan pada akhirnya hal terakhir yang mungkin manusia punya hanyalah rasa kemanusiaan saja."
+"Tanyakan pada AI tentang cara menyelesaikan isu lingkungan, kemungkinan mereka akan menjawab ""genosida manusia"" "
+manusia adalah alat kehidupan ...
+Menarik ulasannya. Tp saya msh melihat dikotomi antara manusia dan non manusia. Jg ada nya extra gap (middle man) antara informasi inet yg tersedia di inet > dielaborasi AI > dibaca + dipahami manusia > dielaborasi / dikontempelasi (lagi) oleh manusia > diambil manfaatnya dlm pekerjaan kita.
+Terima kasih untuk insight nya mas.
+Akhirnya, konten yang ditunggu2
+Chatgpt semoga sangat membantu
+️ Suka Banget ️
+Jangan malah demo atas datangnya ai ,tapi manfaat kan untuk lebih produktif  , dan manfaatkan ai sebagai asisten
+Nah ini menarik, otw balik sambil dengerin podcast 
+Hal yang saya takutkan manusia jadi bergantung dengan teknologi yang semakin canggih sehingga tidak bergantung kepada Allah
+Anda salah kamar..tolong keluar..
+Suatu saat nanti obat/vaccine/anti virus akan dihasilkan oleh ChatGPT tidak perlu riset yg menghabiskan uang yg dilakukan ilmuwan/manusia
+hehehe setelh melihat riview ini, saya menyimpulkan distrupsi yang dikhawatirkan tidak seheboh itu, mengingat AI memrlukan sumber energi yang hanya manusialah bisa merusaknya. so sebagai manusia akan terus berevolusi secara alami, sedangkan AI memerlukan manusia untuk berevolusi kedepannya
+Thanks untuk ulasannya mas.
+ @IndrawanNugroho  sama sama pak
+KITA LIHAT, APAKAH MANUSIA BISA HIDUP TANPA MAKANAN DARI KELAUTAN, PETERNAKAN, PERTANIAN DAN PERKEBUNAN.
+Apakah sudah ada kecerdasan buatan atau AI yg dapat melakukan karya seni misalnya mengarang lagu, menulis karya sastra atau seni rupa?
+untuk seni rupa (gambar) udah ada bang namanya dall-e. Dia bisa bikin gambar pake keyword yang kita kasih
+Chatgpt bukannya bisa bikin puisi? Kayaknya bakal bisa deh klo versi versi baru chatgpt
+Intinya Ai itu semakin pintar kalo basis datanya lengkap. App sehari2 yg make ai itu, youtube, marketplace macam tokped, shopee, bahkan lu mau makan aja di rekomendasiin sama gofood dan grabfood kan
+sudah, cek channel agung hapsah dengan judul Robot Lebih Pintar Daripada Manusia , 3 tahun yang lalu ( 2020 )
+ @dedysyaputra4472  Thank you
+"Seriously curious:
+Kalau semua pekerjaan kedepannya jadi automasi sama AI, terus manusia kerjanya ngapain ya?"
+Jadi budak Skynet 
+ @aggiegilbertstevy  
+Ga semua bang. Aktor/aktris, peneliti medis, pengacara, atlet, petani (yg punya lahan), model dan yg pake soft skill
+ @SiniarVisual  di cina para konten kreator banyak yang virtual, entah mereka manusia atau robot, saya ga tahu 
+Semua sektor bisa kali, lu belum liat robot Boston dynamics bisa membantu sektor pabrik, pekerjaan bangunan, kedokteran, militer, dll.
+" @aggiegilbertstevy 
+""I mean, we took out Cyberdyne over 10 years ago."" 
+""We stopped Judgment Day."""
+Dan lagi pada dasarnya, manusia secara naluriah pengen menguasai segala hal sampe rela menghancurkan sesamanya.
+ @swan6619  selama masih ada emp, kayanya pasukan robot gak akan bisa apa2. Kecuali udh di temuin cara biar perangkat elektronik gak rusak meskipun terkena emp. Mungkin umat manusia akan merasakan berperang melawan skynet seperti di film itu
+"10 tahun lalu saya pertama kali tahu kalo israel itu negara dg S3 terbanyak sekitar 43.000 orang. Tahun lalu saya baru tahu kalo S3 israel kebanyakan di bidang IT.
+
+Artinya era AI dan Teknologi, akan membuat Israel menjadi negara super power di masa depan menggantikan USA."
+"Ngeri"" sedap juga nih AI "
+Penelitian akan lebih mudah dengan ChatGPT.
+Gila cuma dataset 30GB saja AI bisa sepintar dan semulus itu. Kalau 30TB bgm coba.
+Tentu butuh cpu yg powerful bang. Databasenya di gedein kecepatan aksesnya masih sama dgn sebelumnya yg ada kelamaan loadingnya.
+lets gooo one step closer to ai singularity
+Maaf chatGpt itu ada di Playstore gak.? 
+ChatGPT, Lamda, dsb, ini baru awal. Cepat akan muncul lagi varian AI yang bisa ngelakukin soft skills dan hard skills 10-20X lebih cepat (& tepat) dari manusia. Kita gak mungkin bisa menang. Gak perlu juga kita buang waktu menandingi mereka. Saran saya: kita pakai mereka sebagai alat membantu hidup kita. But here's a billion dollar question: apa kelebihan manusia dibanding robot ini? Saran saya (lagi): 'hati'. Berhenti jadi egois. Berhenti jadi anti sosial. Berhenti merusak lingkungan. Saling peduli dan membantu sesama manusia. Hidup berpikir untuk generasi kedepan. Kalau gak, mending gak usah hidup. Serius. Semua soft skills dan hard skills udah bisa dikerjain robot 20X lebih cepat & tepat. Ngapain hidup kalau gak pakai hati. Btw, two thumbs up for the comprehensive content as always, pak Indrawan.
+Thanks ya moga bermanfaat mas.
+Terima kasih pak infonya..
+ketika anak saya kelas 4 SD mendapatkan tugas untuk membuat puisi tentang profesi dokter.. and u know what? dia bilang gampang pake chat GPT aja....
+"Chat gpt gk bs diajak diskusi untuk event yang akan datang, tapi bing ai bisa
+
+Minusnya itu bing ai dilimit penggunaannya per user"
+"New MOTIVATOR : chat GPT
+Para motivator terancam"
+Maaf pertanyaan yg bodoh, chat GPT apakah tersedia di app store?
+TEKNOLOGI KEREN
+Bahaya pakai Chatgpt, yang dapat menulis puisi cinta, jangan mau kalah dengan plagiat yang ada karena chat gpt dibatasi hingga 2021 masa kaya gitu aja kalah wahai manusia
+Mulai melatih diri menjadi bagian dari masa depan
+bukanya sistemnya gk beda jauh sama mesin pencari,kalau mesin pencari yg dicari diisi oleh para pengguna intenet sedangkan chatgpt diisi data dulu oleh si pembuat,heboh munkin karena para milyader2 terkenal yg selalu bikin heboh ikut mendanai besar2an project catgpt ini
+kemarin team sosmed saya , saya minta pakai ai script untuk membuat konten, dan sangat2 bermanfaat, menghemat waktu untuk mebuat suatu cerita. ancaman buat copywriter sih....
+Chat gpt ibarat otak buatan yg belum memiliki kaki dan tangan
+The start of Industry 5.0
+Pekerjaan Service Engineer kaya gua masih diperlukan kayaknya 
+Pas banget dingin2 ada konten terbaru dari Dr. Indrawan Nugroho
+hehehe..Thanks yaa
+Udah tanya tanya sma chat gpt lumayan bsa ada kwan diskusi untuk tugas akhir saya
+Jasa pembuatan landing page dan website jadi turun drastis. Bahkan WP Store milik Niagahoster sudah di stop sejak 1 February 2023
+bisa jadi data yg di dapat untuk konten ini dapet dari chatGPT juga ya prof? hehehehee
+Pernah coba suruh bikin lagu dengan tema politik, langsung di kasih beserta chord ...
+Chat Gpt tidak bisa memprediksi suatu hasil dimasa depan, seperti prediksi harga saham dll.  Mungkin versi berikutnya bisa
+ai pada prinsipnya hanya merekomendasikan. tetap keputusan dibuat oleh user. resultnya bagaimana kita menanggapinya saja kita diam dan hanya memanfaatkan AI atau berkembang bersama AI
+bahas copyright policy ny dok pak, eh btw gpt 3.5 data cutoff nya 2021 September ya
+Guru dan dosen bisa tereduksi juga....
+Ya kagak lah. Malah Ai ini bisa jadi alat pembodohan.
+Pak doktor kita yang sudah 2000an tahun tech kita sudah bisa menggantikan intelect kita, kebayang aja ya pendahulu kita yg sudah melewati 10.000 tahun ya pak?
+"Kalau semua bisa IT..
+Para pekerja IT baiknya pivot ke mana ya Pak?"
+jadi teringat game namanya detroit: become human. detektif udah diganti sama robot AI
+Chatgpt bisa membatu untuk melihat pejabat dan asn yg korupsi 
+"emang ya kerjaan yg gak ilang ya petani, 
+dr languange translation, data entry, virtual assistant itu semua pekerjaanku saat ini, semuanya terancam sama AI"
+Kpn ya ada aplikasi spt youtube, kombinasi youtube dikombinasikan dgn chat/video AI, & bkn saja pemilik konten yg dpt penghasilan, namun yg nonton dpt penghasilan jg meskipun ga sebesar pemilik konten
+Dengan banyaknya dampak chatgpt,maka harus mengupgrade dagang gorengannya.....contoh tempe keju atau tahu Wagyu.....
+Menarik
+Terimaksih atas Penjelasannya
+Saya sudah coba dan saya kasih pertanyaan sejarah desa saya ternyata bisa jawab  dan saya suruh buat puisi ngarang lagu cinta bisa dia lakukan bahkan lengkao dengan reff nya 
+Masa depan chatGPT lebih masuk akal dari pada Metaverse ataupun NFT
+MetaVerse masih oke juga kok drpd nft apaan gk jelas
+Lumayan chat gpt bisa bantu sy ngajar d kelas, walaupun murid sy ya jadi agak males
+Saya pakai untuk produk apa saja yg bisa dijual, membuat harga jual sangat murah dan membuat pembeli secara otomatis melalui program xml
+Elon mask lagi dan lagi. Semua bisnisnya ngak jauh2 dari teknologi. Emang beneran tony stack dunia nyata
+Chatgpt sangag cocok untik orang Introvert bang 
+berpikir positif untuk chatGPT
+Technology For Humanity . .
+bisa bikin skripsi, malakah, sama proposal ndak secara optimal?
+"Pada awalnya AI ,akan membantu manusia ,
+Tapi setelah AI bisa mengembangkan diri sendiri ,manusia bisa jadi lawanya ,
+Sekarang sudah di mulai dari pintu tol ,sekarang pakenya AI ,bukan manusia lagi.m"
+Awalnya terlihat luar biasa, tapi seiring waktu akan biasa saja
+kampus gw kayak lagi adem ayem aja , belum ada peraturan ini itu , belum tau chatgpt kayaknya, gw prediksi seperti biasa pendidikan indonesia bakal telat merespon teknologi ini
+"Bagi Kami, AI hanyalah alat bantu........
+
+AI, hanyalah analog dg sesuatupun material yg ada di bumi alam semesta, dan sama sekali bukan ancaman........"
+Chat GPT keras kepala selalu merasa benar 
+Chatgpt bagus tapi masih banyak yang salahnya dalam artian kita harus mengkoreksi kembali jawaban si chatgpt nya,
+"kemarin saya menguji membuat abstrak jurnal, dan lainnya
+dan pekerjaan chatGpt sangat baik, bahkan secara rangkaian tulisan lebih baik daripada saya"
+Makasih pak indra...
+Kasih tugas menghitung saja, atau kalau membuat ringkasan dari minimal brp paper, karena chatGPT ga bisa akses ke database pengindeks seperti IEEE.
+yang menggunakan harus hati2 takutnya ada yang tidak sesuai...
+Dulu metaverse sangat heboh seakan2 bisa merubah dunia nyatanya biasa2 saja
+apakah karena utilisasi yang luar biasa dari chatgpt ini, apakah gara2 ai ini ribuan pekerja di google, facebook dan lain2 pada dipecat.
+Chatgpt + excel = boom!
+Lagi viral juga yang katanya gen Z , kerja maunya gaji 2 digit, kerja sebentar tapi dikasih beban kerjaan terus butuh healing karena stress , sepertinya era AI bisa bantu itu atau malah gen z seperti itu malah ga punya kerjaan alias nganggur 
+Data ChatGPT tahun 2021, Plot Twist nya pembelian Twitter oleh Elon Musk untuk lebih memperkaya machine learning dari ChatGPT. hehehehehe
+
+Kalo ngomongin chatGPT, jadi inget robot kucingnya buzz lightyear prof hehe..
+Yang gak bisa digantiin ChatGPT, tukang masak, kuli bangunan, tukang ngelas hehehehe.
+Juara info nya.
+Saya pakai gpt untuk binomial equation. Kita hanya perlu gpt.
+"- Kamu ko banyak tau sih, pinter amat, pasti mahal nih sekolahnya, lulusan sekolah mana? 
+- Homescholing saya
+- Siapa gurumu?
+- ChatGPT"
+Bukannya chat gpt sdh menjadi bagian dr Microsoft dan akan terintegrasi ke mesin pencari bing.
+Satu hal yang saya khawatirkan adalah manusia nantinya sudah minim knowledge, tidak mau belajar dan tidak mau berproses, alhasil mental semakin lemah. But we well see
+"Apa kabar dok ?? Hehe uda lama  ga nyimak video2 nya ,
+Always  mantappp dok  makasi "
+"Kata orang orang ""Google Provide Information, AI Provide Knowledge"""
+Seandainya dia bisa menolak aplikasi jahat yg di lakukan para heker
+Kok di Tokopedia, Bukalapak, shopee, Lazada, sampe Alibaba nggak ada yg jual ya kacamata Google dan Microsoft?
+"kemarin curhat sama chat gpt
+sekalian bikin deskripsi produk pake chat gpt
+wkwkwk"
+Sebenernya AI ini bukan hal baru ya...bahkan di tahun 90an AI udh bs ngalahin profesional catur no1...
+Gila ini aplikasi.... Bisa sampe buat skripsi... Q pribadi pake... N takutnya ketergantungan tp enak pake ini...
+Aku pake ni AI buat bikin artikel. Lumayan lah, bisa lebih banyak artikel perhari
+Ini Cortana versi mini, jd ingat film serial HALO...konsepnya mirip, jadi seperti adopsi ke human-AI
+Dan keknya Cortana Windows akan dibuff ama Microsoft
+Chat gpt,lama2 bisa mirip kayak salah satu film lupin the 3rd
+yg paling terdisrupsi dari chatgpt adalah para penulis artikel yg bermodal google translate. sama sama make bot/mesin mending bayarin ai sekalian daripada bayar orang yg make bot. dan ini aku sangat setuju karena artikel yg ditulis pake terjemahan itu ga layak dibaca, bahasanya aneh.
+Sam yg buat chatgpt sedang mengembangkan watermark utk chatgpt. Jadi kayaknya bakal bisa di bedain. Tapi saya setuju dengan pendapat mas
+Selamat mas atas studio baru nya
+makasih yaa
+"Apa salah satu pekerjaan paling bodoh di dunia?
+Jawab: Programmer AI. Selain memberikan banyak ancaman pada pekerjaan lain, AI juga memberikan ancaman si programmer itu sendiri "
+Chat itu hanya mampu memberi satu arah jawaban.. Untuk mencari ide sih bolehlah..
+Wah, saya dulu saat mahasiswa belajar   bahasa computer Fortran 4, nulis program di kartu plong.
+Tahun berapa Pak?
+Gak kebayang kalo the matrix jadi nyata 
+Gak kebayang kalo the matrix jadi nyata 
+Terimakasih konten nya
+Akhirnya yang di nanti-nanti, penjelasan menarik dari Dr. Indrawan Nugroho. 
+Tks enjoy yaa
+Plot twist naskah video ini full pake Chat GPT 
+klo saya lbh suka cri text di chat GPT, klo di google, kl mau cri sesuatu, pasti yg keluar marketplace.
+Om mau nanya apa kah ada AI yang dapat mengendalikan teknologi militer tau mengendalikan AI lain
+biasanya tanya google. sekarang tanya chatGPT. apakah akan menggantikan google?
+Ada dampak Positif Negatifnya ...
+Apakah politisi adalah pekerjaan yang bisa digantikan? 
+3/2 bulan yg lalu sy bermimpi tentang robot ai, padahal sy tak tahu itu apa dan tidak memikirkannya sebelumnya, mungkinkah ini tentang gebrakan dunia selanjutnya.
+"Banyak yg ga menyadari, bahwa elon musk banyak berkolaborasi dengan rektor"" univ standford dan harvard di belakang layar"
+Jadi ke inget M3gan, usaha manusia  menggantikan manusia pasti menuai masalah.. seolah itu melanggar kode etik alam semesta..
+Manusia akan menyesuaikan diri ..
+MidJourney juga akan mengancam para desainer graphic dimasa depan ..
+ChatGPT + Militer = Skynet
+ChatGPT + agama = Saikhnet
+hari ini menggunakan chatgpt untuk daftar RS di kota dan kab bogor, tapi  list yang diberikan oleh chatgpt salah ...
+Dan ajaibnya, Ai ini juga kenal Tuhan. 
+"Chatgpt kan buatan manusia, kenapa harus kita yg takut sama ciptaan sendiri.?
+Jangan berhalu seperti di film-film, robot menguasai dunia."
+Yg halu itu elu
+2017 Dapat matakuliah Artificial Inteligent... Hitungannya rumit 
+Saya kira ini sebatas Siri, Google Assistant, Alexa, dll dan ternyata eduuunnnn
+"Pak Indra subs nya banyak, kenapa malah bahas ini? Saya yg berusaha menyembunyikan teknologi ini dari teman-teman saya berasa sia-sia 
+
+Gamau gua klo teknologi seperti ini hanya digunakan untuk menjawab soal-soal dari dosen."
+Namanya mahasiswa itu pasti udh dewasa. soal teman2 lu ingin menjadi bodoh itu adalah pilihan mereka sendiri bang. Biarkan saja jika ada manusia memilih ingin menjadi bodoh. Mungkin dia kuliah cuma butuh ijazahnya saja
+Investasi leher ke atas adalah pilihannya
+udah cobain, tanyain macam-macam luar biasa respon nya. sampe satu jam terus katanya error terlalu banyak pertanyaan dalam satu jam
+Untung chat gpt masing close source. Klo udh open meninggoy dah kerjaan...
+Kekhawatirannya karena AI ini dikendalikan di sono, kalau tidak cermat bisa terjerumus
+Mesin pencari yg bisa menjadi mesin penjajah. Jawaban yg merupakan kesimpulan bisa saja dibuat menyimpang dan bisa dimanfaatkan satu pihak untuk menjajah pikiran manusia. Terutama informasi sejarah yg mesih menjadi misteri
+Itu akan menggantikan manusia seperti di film Terminator 
+"Menjelajahi Era AI: Pidato Inspiratif dari Robot AI Chat GPT - Artificial Intelligence
+
+
+
+https://www.youtube.com/watch?v=dWsIA2aOstA video dari sudut pandang robot
+
+Semoga bisa jadi Insight menarik."
+Bahkan mungkin suatu ai bisa menciptakan ai lain disuatu hari
+Bentar lg bs kmungkinan besar robot humanoid AI bs d ciptakan
+ada juga ChatGPT yg buatan Microsoft edge namanya Bing
+Om.. Review dong D'Cost yg akan segera pailit..
+Chat GPT = jin botol. Mintalah apa pun. Pasti dapat apa yang kita minta.
+Google udah bikin AI sendiri pesaing chatGpt namanya bard google
+14:34 bener, sy tanya ke ChatGPT dimana posisi James Webb jawabannya masih di Bumi, tp saya tanya lagi dan dia minta maaf dan mengkoreksi jawabannya.
+Mungkin nanti chat gpt bisa menemukan obat penyakit yg langka yg belum ditemukan sekarang
+Sudah masuk ke era Cortana yg sebenarnya
+Efesien tapi kurang efektif, maaf mungkin tadi saya melewati beberapa part video ini. Bagaimana dengan Keamanan ChatGPT pak? Mengingat banyak siber security belum bisa menjamin keamanan dari hacker?
+"Betul sih sekarang saya pakai chatgpt ga pernah buka google lagi .
+Chat gpt lebih praktis ."
+Manusia mengembangkan robot (Ai) dan (semoga) nanti robot (Ai) mengembangkan manusia.
+mau test chatGPT buat konten youtube dan konten artikel, sekarang cuman how to chatGPT buat meng-cuan
+Elon Musk sudah keluar dari perusahaan di tahun 2018, kalau tidak salah.
+Gara gara chatgpt sy jd pinter
+Jd paham kan, pemikiran visioner Elon akuisisi Twitter~
+"Sebenarnya konten bagus2. Tapi saya setop menonton channel ini gara2 ads logo Dedi Corbuzer grup disitu.
+Bukan apa2
+Ini zaman desentralisasi. Tersebar."
+Lagi seru dengerin, tetiba Google Assistant muncul 
+ChatGPT bisa* gantiin/bantu tugas Presiden nih 
+Saya pernah tanya soal hal sensitif mengenai peperangan dan senjata kimia. Chat GPT gak mau jawab.. 
+Jarvis Ironman menjadi nyata saat ini dan bahkan akan lebih pintar kedepannya
+Gara gara kehebohan banyak orng yang bahas chatgpt, servernya jadi sering down karna banyak yang akses jadinya aga susah untuk aksesnya sekarang sekarang
+Sepertinya para consultant bakal tergantikan oleh ChatGTP ini
+1000x lebih baik daripada yang viral adalah crypto
+Di dunia esport kalo bisa masuk sih bahaya, di dota 2 bot open ai aja ngalahin juara internasional di percobaan pertama
+wah keren sekali
+In any arguments ChatGPT kemukakan, Jgn lupa mintak citation. Sumbernya. Lalu boleh dibuat nota kaki.
+Chat GPT digabung dengan humandroid lahir Terminator atau Data tokoh di startrek
+alhamdulilah kuliah 3 sks dosen Pak Indrawan
+beliau ngajar di Universitas apa yah? dan mata kuliah apa yang beliau ampu?
+Dok bahas studio ghibli dan perjalanannya dong
+
+"Apakah Doraemon the movie yang menceritakan peradaban manusia hancur karena semua pekerjaan digantikan dengan robot / artifisial Intelijen akan terbukti? 
+Ketika manusia malas melakukan sesuatu malah menciptakan robot / artifisial Intelijen baru."
+"API whatsapp ke GPT . 
+Makin mantap. Bisa jadi asisten pribadi."
+Mantap...!,
+Skynet mulai jadi Nyata 
+Saya pernah bikin chatbot, 1 bulan usernya 1.5 juta. Ga percaya? Saya juga :D tapi itu terjadi
+ChatGPT sudah tau siapa pemenang pildun 2022 pak.
+Ketika saya tanya tarif ppn Indonesia, chat gpt menjawab 10%, belum update dia
+Lagi seru dengerin, tetiba Google Assistant muncul 
+ChatGPT bisa* gantiin/bantu tugas Presiden nih 
+Saya pernah tanya soal hal sensitif mengenai peperangan dan senjata kimia. Chat GPT gak mau jawab.. 
+Jarvis Ironman menjadi nyata saat ini dan bahkan akan lebih pintar kedepannya
+Gara gara kehebohan banyak orng yang bahas chatgpt, servernya jadi sering down karna banyak yang akses jadinya aga susah untuk aksesnya sekarang sekarang
+Sepertinya para consultant bakal tergantikan oleh ChatGTP ini
+1000x lebih baik daripada yang viral adalah crypto
+Di dunia esport kalo bisa masuk sih bahaya, di dota 2 bot open ai aja ngalahin juara internasional di percobaan pertama
+wah keren sekali
+In any arguments ChatGPT kemukakan, Jgn lupa mintak citation. Sumbernya. Lalu boleh dibuat nota kaki.
+Chat GPT digabung dengan humandroid lahir Terminator atau Data tokoh di startrek
+alhamdulilah kuliah 3 sks dosen Pak Indrawan
+beliau ngajar di Universitas apa yah? dan mata kuliah apa yang beliau ampu?
+Dok bahas studio ghibli dan perjalanannya dong
+UP!
+"Apakah Doraemon the movie yang menceritakan peradaban manusia hancur karena semua pekerjaan digantikan dengan robot / artifisial Intelijen akan terbukti? 
+Ketika manusia malas melakukan sesuatu malah menciptakan robot / artifisial Intelijen baru."
+"API whatsapp ke GPT . 
+Makin mantap. Bisa jadi asisten pribadi."
+Mantap...!,
+Skynet mulai jadi Nyata 
+Saya pernah bikin chatbot, 1 bulan usernya 1.5 juta. Ga percaya? Saya juga :D tapi itu terjadi
+ChatGPT sudah tau siapa pemenang pildun 2022 pak.
+Ketika saya tanya tarif ppn Indonesia, chat gpt menjawab 10%, belum update dia
+Bang coba bahas pi network
+Sejak ada ini ngerjain ppt/word cepet banget
+Real MVP!
+Terima kasih ilmunya pak
+sama-sama mas.
+tau OpenAI dari dota2, dulu ada bot yg jago banget 1vs1 di game dota 2 melawan proplayer
+Apakah Chat GPT ini suatu saat dapat melakukan kejahatan kepada manusia seperti mengaktifkan kode bom nuklir utk pemusnahan massal umat manusia yg kemudian akan digantikan dgn Robot AI. hmm..
+sdh daftar chat gpt tapi pas mulai chat error melulu, kesalahan dalam sambungan 
+Makin sering diakses, makin pinter dy anjir...secara personal aja, dg pertanyaan yg sama, jawaban makin detail seiring waktu, udah gw test pertanyaan yg sama tiap hari...wkkwkw...bayangin, makin banyak user, makin ngeri dy...
+Sudah kaya Skynet di Terminator aja inimah, apa bener ya film itu cerminan hal2 yg sedang dikerjakan sama ilmuwan, atau alurnya kebalik ilmuwan liat film terus berusaha merealisasikan 
+Setidaknya google memyuguhkan sesuatu yamg gratis.
+yang mengerikan adalah, versi untuk umum dan dibatasi, uda secanggih itu, bagaimana dengan versi yg tidak di batasi,
+Bisa menggantikan beberapa peran manusia dalam dunia bisnis maybe
+gua debat sama chatGPT kalau piala dunia 2022 sudah diadakan karena skrng 2023. eh akhirnya chatGPT minta maaf dan ngaku kalau data pengetahuannya cuma sampai 2021 jadi tidak taui piala dunia 2022 sudah diadakan dan pemenangnya siapa 
+hahaha
+JARVIS nya Tony Stark bener bener dibikin sama Elon Musk
+Saya pake chat gpt non open ai itu bisa rekomendasiin saham loh. Gile bener haha
+"Syalom/Assalamualaikum Dok, 
+
+Kiranya boleh ksh informasi bisa download atau akses chat GPT di mana ya?"
+Serem di awal video .. tapi mengetahui kelemahannyA .. tak begitu menyeramkan.. setidaknya AI tidak bisa menyebarkan HOAX.. HIHI
+"fix, yang bisa nanya dengan baik jadi pemenang.
+jurusan filsafat bakal membludak habis ini."
+Nggak ultimate juga kali pak, B aja, besok juga ada yang jauh lebih hebat dari chat gpt, sejarah membuktikannya, itulah inovasi
+saya bikin 28 template website yang bisa saya jual dalam sehari dengan chatGPT
+Kan utk menjalankan ChatGPT harus menggunakan interaksi manusia
+Kok jadi berasa seperti ngobrol dgn jelangkung yg pakai huruf bergerak kasih jawaban yg entah benar atau salah. Jelangkung era modern waspada dlm penggunaan nya
+bayangkan chatgpt+ms office 
+ChatGPT bknnya seperti mesin pencari dengan algoritma yang sama ya???
+apakah materi divideo ini hasil dari chatCPT juga?  
+knp ya, klo buka chatgpt muncul begini : This challenge page was accidentally cached by an intermediary and is no longer available.
+"Pembuatan membuat website yang biasanya bisa saya lakukan selama 10 hari dengan chatgpt bisa saya lakukan hanya dalam 2 hari.
+
+Lama-lama kalau gini otak saya jadi males mikir sih."
+Film terminator akan jadi nyata
+Sekarang sudah muncul menu upgrade tentunya nanti akan berbayar mungkin
+good insight
+Yang saya butuh robot kecil untuk main game jd bkn tangan manusia lagi yg tersita didepan monitor game.shg bisa menghasilkan uang dan manusia bisa leluasa belajar yg lain..ngaji Quran misalnya...! 
+sehebat  apapun slama berbayar, tetap kalah dgn google mesin pencari gratisa
+Untuk sekarang chatGPT masih banyak salah memberikan informasi, tidak seakurat google
+Enak banget pakao chat gpt ini hampir semua dia tau, hehe
+"Gue iseng nanya chatGPT, apakah anda bisa menjadi ancaman untuk manusia.
+
+Terus dia jawab iya saya dapat menjadi ancaman. Wkwkw "
+Tapi chat GPT menyadur dari internet juga
+Jadi keinget film Transcendense
+Bisa buat nebak saham mana yg untung di masa depan?
+Kenapa diawal komen gw kesel. Soalnya gini. IT di indo udah dianggap sesat dalam arti IT itu bisa segalanya. Dan kalo viral gpt nanti kerjaan IT makin dianggap enteng. Sebelum ada gpt ada sering sering bilang tinggal gitu doang. Sekarang ada gpt pasti jadi tinggal cari aja di chat gpt
+Ijin share pak dr
+Apakah setelah ini manusia akan mengalami penurunan kemampuan otak akibat kemudahan ini ?
+SAYA HARAP CHATGPT BISA GANTIKAN DPR YG BUANG BUANG ANGGARAN NEGARA 
+6:30 Background-nya Windows XP tapi ada File Explorer Windows 11.
+Menarik Sih dan apabila ChatGBT ini di Kombain dgn Neorolinknya ellon musk wihhh Gilaa pesat bangett Perkembangan nya pasti
+Kan memang punya elon musk dua duanya
+Seperti Wikipedia, kadang bisa dirumah orang
+SkyNet sebelum menguasai dunia.
+Apakah ecommerce akan tergusur oleh TikTok?
+Ancaman di dunia pendidikan
+Jgn melihat kepada capability AI to beat AI is we as human should create the sideways of seeking the weaknesses of the system such as the latency if it coz ive been doing it
+Jadilah petani,,pekerjaan yang tidak bisa dikerjakan oleh AI....
+"ELON MUSK & BILL GATES SAMA2 PENGIN PUNYA HAPE & OS NYA SENDIRI .
+HAPE MERK TESLA 
+HARGA DI ATAS IPHONE 
+OS NYA MICROSOFT WINDOWS DGN BING + CHAT GPT"
+mantab kali.. hatursuwun
+Kenapa kualitas videonya dibuat unavailable yah, padahal pengen liat dengan gambar yg bagus (1080p)..hehehe
+"chat gpt  ada beberapa kelemahan dalamnya  
+dia tanya gue jawab lalu gue tanya tapi tidak bisa menjawab yang diberitahu pengguna lagi"
+"MIRIP RUDAL PEMBOM SASARAN LBH DULU DIBUAT, 
+LALU RADAR ANTI SERANGAN UDARA DIBUAT KEMUDIAN."
+Bisakah melakukan chatgpt melalui hp?
+chat gpt yang di buat bisa di check make plagiarisme khusus bot ,tpi jeleknya bahasa yang di gunakan agak aneh
+Kok bisa data chatgpt dibawah 2021, spt siapa  juara dunia tahun 2022, kan data tersebut sudah tersedia di berbagai data dunia, kok mapagan chatgpt gak bisa mengaksesnya? Sy rasa ada yg aneh dgn pembatasan infirmasi berdasarkan waktu tertentu.
+bahas MIDJOURNEY pak
+Apakah kedepannya akan ada perang AI, mari kita lihat.
+"Seperti yg di katakan Rosulullah "" Di ahir jaman batu bisa bicara dengan manusia""
+Yang di maksut batu adalah  HP, Laptop, Komputer, Dll.. Sekarang semua bisa bicara"
+Coba sebut di kitab mana ada hadist tersebut, apa iya yg dimaksud batu itu hp, laptop, komputer?
+ @machiavell8719   makanya belajar
+ @mrafiriyankurniawan3335  ga bisa jawab?
+suatu saat akan menjadi skynet dan muncul T-1000
+yg sabar yg pernah kuliah programmers
+This is about reinkarnasi from our world , we will start with basic again .
+Mantap Mas
+Saya mohon chatGPT tidak bocor sampai dosennn :((((((
+Dosen gw udah tau njir
+Dan lagi2 Elon Musk ada disana
+Tenang Pak, saya minta chatgpt bikin meme masih gabisa 
+Aku di kota yang banyak LSM, tukang parkir, dan pengemisnya :
+Coba masukin hadist² dan tafsir quran dr berbagai ulama, pasti langsung geser Google deh hahahaha
+ChatGPT itu gak punya nafsu beda dgn manusia....nafsu merusak
+"Tutorial pake ChatGPT bang.
+Gw nyoba sibuk mulu websitenya "
+emang lagi sibuk, kalau lu dulu pake waktu awal² masih bisa kepakai. Saya dlu salah satu pengguna di hari kedua perilisannya 
+Sayang ga tahan lama. Cuma bisa diakses selama 1 jam.
+baru mau minta bahas 180 pekerja di buzzfeed dipecat gara2 mau buat berita pakai ChatGPT, udah dibahas duluan
+Semoga chatGPT gantikan pegawai pajak
+hahaha
+Wkwkwk , chat GPT bisa bin AI , ai suruh bikin AI aI yg sempurna surh membuat manusia buatan . 
+Serasa kek dunia Terminator
+Tapi outputnya harus dicek lagi karena bisa fatal. Sy coba cari sejarah nabi Muhammad, hasilnya di sebutkan kalau Alquran salah satu karya beliau. Kalau mau koreksi yg fatal seperti ini bgmn caranya ya Coach atau yg lainnya? Khawatir akan menyesatkan yg lainnya.
+chat GPT depertinya dibackup sama microsoft n google mau ngeluncurin Bard yg bisa cari info secara online
+Pak Indrawan tema podkesnya ngikutin cold fusion kah?
+Ya jadi viral. Jangan diangkat bang, jadi makin sulit saingannya. Biar yg tau aja wkwk
+Top banget lah konten nya
+Tengkyuuu
+ @IndrawanNugroho  lanjutkan
+Udah nyoba chatgpt, seru si :v
+Psikolog, psikiater, jasa curhat telpun/onlen mungkin rada nyeletuk, pasien gw ilang 1. #canda
+"Chat gpt berbayar cukk biar tidak terlihat kesan bahwa AI telah terbuka ""kotak Pandora"" nya"
+Jangan jual sawahmu, AI akan mengubah semua.
+Kayanya ini supervised learning deh
+Hmmm chatGPT mantap..
+GLCH defi layer 1 mainnet 2023, max supply 88jt
+Dapet data dari mana ya? Starlink? 
+mungkinkah nantinya ini ada bubble. terus crash. tapi yang crash bukan A.I. tapi manusianya
+Jauh2 bahas AI.Terus om Putin main petasan nuklir.
+Apakah akan free selamanya pak?
+Apakah pekerja data analisis bisa di gantikan oleh chatgpt?
+Belum aja. Skrg cuma ngebantu kerjaan data analis.
+Skr pake chatgtp suruh otonom sisa nya suruh pikir sendiri biar ga oon , pertama2 detail code di kasih 
+smenjak ad chatGPT nilai w auto A cuy wkwk
+Udah cobak, chatGPT nya ngk mau ngaku salah, masih bela diri wkwkw lucu...
+Apa chatgpt tau semua bahasa daerah di Indonesia?
+aq nanyak ke gpt pertanyaan yg sulit dia bisa nanggapin. tapi pas aq tanyak pertanyaan yg gampang kayak berapa jarak dari bandung ke surabaya? dia malah ngasi saran pakai gugelmap :v awakawak gak jadi takjub deh. kagak bakal bisa mendisrupsi :p nyebutin password gw aja dia gak mampuh
+DORAEMON !!! BUAT MAHASISWA 
+AI robot masa depan
+Aku udah coba dan tanya… kenapa temanq ttp LANGSING meski makannya banyak… , dan dia bisa njawab wkwkkw…
+"Ngomong2 AI.
+Sekarang sudah ada AI yang menjadi Vtuber/ Youtuber Virtual.
+Nama chanelnya itu Neuro sama"
+Ilmu kedokteran masih aman 
+Gw pake chatgpt buat deskripsi produk pemasaran buat bikin flayer. Wkwkwk
+Cikal bakal emosi robot mekanik di masa depan
+Jawaban chatgpt ini bisa sama gak dgn jawaban orang lain klw pertannyaannya sama? Ada yang pernah nyoba? Aku takut klw buat essay tp sama persis dgn org lain.
+"Kukira chat GPT adalah chat skema partisi  Harddisk....
+Taunya GPT dan MBR. ha ha ha"
+rilis lebih cepat lebih baik itu jadi ga ada yg namanya kasus bulliying lagi
+masa bikin esay 1000 words dengan nyaris sempurna.... gila ini mah
+I warned you about the future of AI - Elon Musk
+Padahal dia yg membangun nya dia yg malah khawatir wkwkwk
+Marketing juga belum bisa direbut mesin
+emang gila sih, saya coba emang gokil. jika diarahkan dengan benar skiripsi 2 hari selesai. Lol
+masih jauh, bahkan sekedar crud basic saja belum mampu
+Bisa ngerjain kuis saya juga pak  walupun kadang nggak bener
+funfact,gua pertama kali pakek chat gpt nanya tentang,apakah pe**s bisa diberi skincare dan jawaban nya cukup memuaskan dan jelas,daripada gua searching di google langsung
+Biar makin mulus y ahahah
+Dan ChatGPT saat ini servernya sudah mulai lelah, wkwk
+Chat gpt downloadnya gimana?
+Cara mengakses chatgpt dmn?
+Google kecolongan sama OpenAI
+Makin ksni saya makin paham tombol ceklis yg ada tulisan im not robot fungsinya buat apa
+Kenapa dunia membiarkan 3 orang merusak ratusan juta manusia. Saya tidak apakah nanti 3 org tersebut akan berakhir tragis karena ratusan jutaan akan mencari mereka....it just imagine
+
+dan tau ga pak, bahwa beberapa belahan dunia membuat sekte yang menuhankan chatGPT ini, ngeri yah sampe segitunya.
+Sudah ketebak sih bakal ada yg kaya gitu. Boleh tau nama sekte/kelompok yg sudah ngelakuin hal kaya gini bang?
+ @apem2kilo879  GPT Cultist mungkin?
+Chat GPT adalah Simsimi 4.0
+"BIS YES, udh pake dari lama wkwkwkkwk
+biar akselerasi sih. 
+
+Salam One Man show"
+Kok makin lama malahan makin menakutkan,. 
+Kapan nih google bisa bersaing dgn ChatGPT..... Katanya pada kepanasan tuh google hahaha
+Semua akan kripto pda waktunya 
+Saya orang gak sekolah aja . Cemas tentang kejanggihan AI
+FunFact asli emang.. chatGPT ga bisa mengantikan sosok Coki pardede .. slm chuaks :v
+Skripsi pakai chat gpt, enak bet
+auto DO, NILAI E
+Apakah chatgpt akan mampu memboat robot trading forex yg mumpuni?
+Belum tentu kalau lawannya sesama chat GPT.
+Ada yang bilang CHATGPT adalah Google pakai  steroid 
+"Aplikasi , itu bisnis .
+Aplikasi di kendalikan yg punya aplikasi"
+Elon musk berati lebih pintar dari chatGpt
+Wow...
+mantaappp paakk saya bisa open joki pke chat GPT ini wkkwkw lariiss maniiss
+Coba deh tanya tentang the fed di gpt, kok error?
+Bikin bom? Why not? Ide gila seperti ini bisa saja muncul di pikiran seseorang, kemajuan memiliki 2 sisi yg tajam.
+menurut gw sih ini overthinking aja.... semua akan baik2 saja kok...
+pak data chat gpt katanya kau 2021 kebawah dia gak ada itu kekuranganya
+"bagaimana jika chatgpt di integrasikan kedalam otak manusia, dipasang chip gitu.
+
+pasti jadi cerdas semua"
+Blm sampe kesitu teknologinya.
+bukankah selain berinvestasi untuk mengembangkan chat gpt, Elon musk juga tengah mengembangkan integrated chip untuk menghubungkan otak manusia dengan komputer.
+ @exdespair6085  progresnya blm di tunjukin sama dia.
+ @jackbrown107  karena memang belum dapat izin untuk di uji coba ke manusia, walau uji coba ke spesies kera berhasil.
+Skynet become real 
+Min, chatgpt bisa edit video2 conten tidak ya...
+Saluuuut baaaang. Hormat saya 🫡
+Gpt nya jdi lemot dong sekarang padahal kemarin2 enggak , kya nya lgi kebanyakan yang make deh
+Mengerikan boss
+kenapa heboh, karena media di mana mana mengekspos jadi orang pada fomo
+Seharusnya tidak usah dibahas di channel ini. Udah seluruh dunia make, ditambah jamaah sini, bisa meledak dah servernya.
+Aduh pak kok dibahas, jadi makin pada cepet taunya orang2 
+Sy sudah coba chatgpt ini, menurut saya biasa aja. AI ini mmg bisa memudahkan pekerjaan kita, tapi tidak akan menggantikan pekerjaan kita. Jawaban yg dia berikan cenderung umum dan normatif, tidak bisa menjelaskan lebih dalam dan spesifik. Kalao gk percaya suruh dia bikin artikel/puisi dengan tema seragam. Lama-lama kelihatan jelas polanya. Serupa tapi tak sama. Utk efisien waktu it' ok.
+Saat ini, kedepannya tidak ada yang tau. Bahkan saat ini kamera hp sudah menyaingi kamera foto biasa.
+Opo meneh kie... cepete teknologi... 
+Main papji pc pakai chatgpt auto chiken
+SKYNET IS BORNNN ....
+tergntung database nya... sama aja kyk shimi2 kalau shimi2 algoritma dan database nya banyak tentu aja dia pinter ..tetap aja yng pinter human..
+saat ini chatgpt belum bisa terhubung dengan internet, kalau sudah terhubung nah kelar.
+Mas elon sang destructor 
+Bagaimana kalau dia belajar KUHP? Bisa jd hakim dong dia.
+Kadang di google juga tidak sepenuhnya benar
+Era 5.0 akan segera terjadi ..
+"gua : Chat GPT bagaimana cara mengakahkan Google ? 
+gua : Wkwkwkkw"
+jadi , kuli masih tetep aman ya ? 
+Baru dibahas sekarang, Ane udah pake sejak dulu :v
+Gw pernah iseng-iseng nanya, “apakah anda percaya Tuhan”. 
+Semoga Chatgpt hanya sesaat boomingnya seperti metaverse karena meresahkan  dan membahagiakan buat orang atau manusia pemalas 
+ketika sudah tidak ada orang/media yang menulis artikel di website, artinya chatgpt tidak bisa bekerja,, betul kagak?
+Kalau untuk sekarang kayaknya iya bg
+Mohon izin Pak Indra, lukisan disebelah kanan bapak itu gambar apa ya pak? Soalnya sebagai penonton saya cukup terganggu pak. Alangkah lebih baiknya untuk dihilangkan atau diganti pak.
+Buat abstrak buat penelitian juga bisa mana di cek plagiasi 0 persen bukan main emang chat gpt ini
+TERNYATA CHAT GPT BISA JUGA MENJAGA PERASAAN MANUSIA. DIA PUNYA RASA HORMAT YANG BAHKAN KADANG TAK DIMILIKI OLEH PENCIPTANYA YAKNI MANUSIA. Wkwkw.....TANYA DONG BRO...KAPAN DUNIA INI KIAMAT?? BIAR AKU BISA BERSIAP DIRI AGAR BISA MASUK SURGA. HE...HE..
+"PERTANYAANNYA CUMAN 1, indonesia ngapain aja.
+apakah bisa membuat seperti mereka (bersaing)
+atau cuman sebagai USer,
+atau bahkan hanya korupsi aja, atau bahkan cuman masih debat soal agama mana yang paling benar?
+Think smart"
+Itu yang seharusnya di tanyakan pada diri masing masing
+Ntar lagi chat GPT bakal dipake buat jualan kapling sorga ...
+Customer service ketar ketir
+gak ikutan bikin podcast dengan chatgpt prof?
+hahaha
+( ChatGPT vs Bard ) vs Denver Talking Gargoyle (AI ML FR) ? 
+revolusi by teknologi... ngeriii
+apa mungkin chatgpt jawabnya ambil dari source HOAKS
+Terimakasih open ai, nilai ku naik
+Nilai naik tapi Skill Drop.... haha
+Kmarin nyoba nyari alamat dinkes prov sumut masih salah jawabannya..
+Level 1 aja udh segila itu apa lagi klo level selanjutnya di masa depan
+bagaimana jika chat gpt di tanam di robot humanoid?
+"Tujuan Ai kan emg itu. Endingnya nanti manusia berperang melawan skynet. 
+Robot humanoid ber Ai = terminator"
+Hati-hati aja sih, ntar lu kalo lagi nongkrong, ketemu orang yang te*anjang, lalu pengen minta semua pakaian yang lu pake, mungkin motor lu juga. 
+ @swan6619  gw liat berita, russia udh bikin loh yg lebih advance dari drone.  Macam tank tapi ukurannya mini dikendaliin macam drone tapi dia juga di tanam Ai jadi bisa mikir sendiri bisa nebak ini tank musuh atau bukan, pesawat musuh atau bukan, tentara musuh atau bukan, dan juga bisa mutusin sendiri untuk menyerang lawannya, kalo udh sempurna horor bgt tuh
+Katanya Elon musk hal paling berbahaya adalah A.I. ,jangan jangan.....
+Punya ku bisa dihp tapi dileptop jawabannya hanya An error' accurred
+udah telat, ngaco pula pembahasannya pak... Palem (PaLM) gini udah lama ada, dan chatgpt sering keliatan benar. Sincerely engineer gugel ya.
+"Terlalu banyak konten kreator yg mempromosikan saingan geogle yg kadang ngaco dan nyasar ini.. Big,, 
+Somepeople tak mau kalah sudah menciptakan saingan crypto yg nilainya jauh lebih rahasia dari bitcoin mungkin layaknya seperti  ****bit yg pastinya belum dibocorkan dan kabarnya akan muncul 1 atau 2 tahun lagi .. Dari sifat manusia yg suka meniru dan tidak mau kalah.."
+Jangan terlalu optimis pak, nanti seperti terawangan metaverse. Inovatif, ya. Mainstream? Belum tentu....
+Metaverse itu masih belum berkembang sih. ibarat layar handphone, masih monokrom. Padahal konsumen sudah terbiasa dengan layar amoled.
+"""ChatGPT"" dibaca ""CheatGPT"""
+Feel kaya punya JARVIS
+google tetep nomor 1 karena kalo kita buka chatgpt bukanya melalui google
+Saya dari bing buka apa apa
+Server tetap google, ya terancam anak nya helo gole 
+Masa Depan AI 
+ChatGPT ini mirip dengan film M3GAN
+Waduh pak,, saya cuman jadi petani lombok,, terdistrupsi gak ya pekerjaan saya hahaaa
+ChatGPT VS EVERYBODY
+ngekek pas tanya tentang pertanahan dok , iya jawabannya bener sih , ditanya dasar hukumnya langsung dijawab , begitu dicek beda dong permen yg dijawabnya , wkwkwk ya saya goblok goblokin habis itu saya benerin buat ngetrain modelnya
+"Tetangga sata bilang, orang² kafir itu semakin gila ilmunya.
+Sementara dinegeri kita masih banyak orang yang sibuk pro kontra musik Halal/ Haram.
+M I R I S."
+Apakah yang pro kontra musik halal/haram adalah seorang ilmuwan? atau hanya sekedar karyawan pabrik?
+"APAKAH KELAK NANTINYA AI ADA KESADARAN UNTUK BERAGAMA APA ENGGAK? 
+ATAU PUNYA KESADARAN KALO MANUSIA ITU RESE BANGET. SEHINGGA HARUS DIMUSNAHKAN DAN AKHIRNYA JOHN CONNOR MEMIMPIN PERGERAKAN MELAWAN TERMINATOR..??"
+top
+udh coba bbrp kali kek nya jawabannya pada ngawur, jg hanya free 10pertanyaan, selebihnya bayar
+Mirip-mirip metaverse, langsung hilang
+Akhir akhir ini lemot banget chatGPT 
+andalan mahasiswa jaman sekarang nih
+idenya dari Jarvis Iron Man
+Malah bingung make chat gpt,ada tutorialnya ga?kaya mending cari fakta baca langsung di google.
+Anda salah ChatGPT tidak bisa menjawab semua Jawaban ada yang tidak bisa di Jawabnya
+Otaknya udah ada cuma baru teks, nanti bisa jadi suara, akhirnya jadi robot. Selesai sudah.
+Mas elon sang disruptor 
+ChatGPT tidak ada sumber pustakanya.
+Mantaf
+ChatGPT menggantikan guru 
+Nggak hanya itu dosen pun juga bisa digantikan dan semua yg berhubungan pekerjaan manusia digantikan dan manusia di dunia jadi beban wkwkw
+ @pangeranalfansuryalfansury1827  pemusnahan massal bagi yg beban 
+ @anchidema481  dan perang terminator is coming...!!! 
+Imagine google adalah nokia kedua
+Lagi ramai niii openAI
+Saya rasa beberapa tahun kedepan org tdk perlu lagi kuliah
+Welcome to the future & the beginning of (fill these blank by urself).
+ChatGPT
+lirik lagu malam bantu aku, belum ada di library chatgpt
+Sereeeem yah 
+ChatGPT ini hal lain dari Ok Google .. elon hanya meng scrape dan memodifikasi doang
+Microsoft vs google 
+Coba tanya chat GPT cara bikin nuklir dirumah
+"semoga biaya kuliah makin murah.... 
+
+udah bayar mahal mahal.... ilmu nya cuman dpt copy paste doank... "
+"T800 : ""Hasta lavista baby"" "
+chatgbt akan jadikan para dukun kalah bersaing hehe
+Yg di tunggu. Wlo sedikit telat. Tapi, dripd tidak sama sekali.
+tetep bisa bias kalau data source pembelajarannya juga data sampah
+Saya tanya hukuman Ferdy Sambo d chatgpt jawaban'a chatgpt tidak kenal Ferdy Sambo
+kalo Ai udah bisa ganti genteng bocor baru ketar ketir 
+Google jd terasa jadul
+Wow smkn seru perangnya
+cocok buat dimasukkan dalam boneka barbie ukuran 1 meter. dengan rambut pirang.
+Jadi inget video fian flash
+Wah ga sombong y ChatGPT?hhh
+"Saya nanya bagaimana onepiece tamat pada chatGPT tp dia tidak tau, hmm biasa aja tidak terlalu canggih si
+wkwkwkwkwkwkkwwkkwk"
+"Selamat ""anak cucu temannya temanmu"" akan kalah telak bersaing dalam bekerja.
+Ya aman ""mereka"" kan bukan anak cucumu..
+Cuman ""mereka"" yg bukan anak cucumu jgn² kelak menikah juga dgn anak cucumu? Dan hasilnya kembali padamu juga. Kecuali anda membatasi dan mewajibkan pernikahan sedarah."
+Lumayan bisa prediksi nomer togel
+Bisa tidak chatgpt mengambil alih hakim d persidangan
+gambar ilustrasi manual gw susah laku,
+Kagak bisa memprediksi skor bola
+"Ilmu semakin ""murah"" kah?"
+Masih kalah canggih dari jarvisnya imron man ya?
+Google lebih banyak sampah nya yg terlalu lebar. Lebih enak gpt
+J.A.R.V.I.S in real life
+Mo ngalahin google? Cmn butuh waktu 3 bulan Google dah launching BARD..
+nya video dibikin ilustrasi
+"Shit. My idea selalu akan terjadi ... Gw bilang ya. Skrg lihat ya. Akan ada kesadaran manusia yg di photographic. 
+Bntr lg mncul"
+"Siapa dalang dibalik pembunuhan munir
+Chatgpt : ..........404 democrazy not found"
+
+gilaaak gilaakk, perang inovasi ini gendeng banget anjir.
+
+Anak turunnya Simsimi
+apakah ini bentuk awal dari samantha, dari film her 
+Bahaya AI akan membuat kemalasan
+Kalo AI ny nolak permintaan kita gimana, emang sih AI sprti ChatGPT mau jawab pertanyaan kita apapun itu, tapi AI itu jg punya kesadaran, dan dia bisa nolak permintaan kita
+https://youtu.be/mhRHypjupYQ (sekedar informasi dari masa depan) 
+"anda juga tidak bisa menanyakan ""Tanggal berapa sekarang :D"""
+Bikin lirik lagu rap aja bisa. Mana berima pulaa..
+"3:50 Maaf, sy gak setuju dengan kata²nya... Soal'y A.I. memerlukan bantuan manusia sebelum bisa dijalankan dan A.I. itu sendiri diciptakan oleh manusia. Soal kecepatan, A.I. itu sudah kalah duluan dengan manusia ""yang menyediakan jawaban untuk segala pertanyaan"" sebelum A.I. bisa menjawabnya. 1,000 Manusia VS 1 Pengguna juga tidak bisa disamain dengan ""apa yang bisa A.I. lakukan"". Jika disamain, serupa Puluhan Genius yang meledék Seorang Pengguna... "
+thanks untuk perspektifnya mas.
+Semisal kita tuliskan serangkaian angka 2 digit... 20 43 88 65 79 01 lalu minta dia beri angka brikutnya dan BOOM... adakah yg paham dn ingin coba?? Wkwkwk...
+
+Aku tanya chat gpt dimana jodohku????..malaah diceramahin 
+Ap gw yg kgak paham ap emg in dr sna nya ya. Cba dong yg tau ksh pnjlsan. Bchatgpt mmg bs jlskan smua y dr yg mulai kita tya smpai buat yg kita mau. Tp ngeliat gk si klo hsil dr chagpt gk ad literatur y or refrensi y dr sp dll. Bnr gk? Trs klo qt mau pke hsil chathpt qt mau membandingkan or meevaluasi hsil tulisan it gmn klo gk ad literatur y dr siapa or dr mna. Krn gk ad referensi nya. Ap bs dpkek buat penulisan jurnal or karya ilmiah lain nya.
+Bagaimana dengan nasib para kaum rebahan??...
+JADI MALES SEKOLAH APALAGI KULIAH 
+Soft skill= bikin bakso.
+"wah, gk asih..ada
+ GPT zero"
+Beneran saya cek doi ngga tau pemenang piala dunia 2022
+"13:50 KREATIFITAS?
+
+A.I ART SUDAH ADA BRO"
+Coba tanya di chatGPT.. Siapa istri atta halilintar?  Jangan kaget yah
+"Chat GPT
+Chat Gak Pake Teman"
+Tetep chartgpt ngga bisa benerin hp matot
+Skynet is here
+chatGPT itu dibuat sama Liberal LG4y,GBT.... jdi ya isinya agak ga waras
+Gw udah jrang pake google')
+Penasaran apakah ini. Rame yang bahas
+Lama2 film IRobot kejadian nih..
+Ya Allah semoga dukhon segera turun
+Ngeri ngeri sedap coach
+Udh bisa dipake kah chatgpt?
+Pertanyaan yang sangat ketinggalan. Hehehe
+Ngeri ini.
+Google Bard Ai cooming soon!!!
+Thanks elon musk 
+Kinda Vision vs Ultron. creepy.
+sejenis Siri dan OK Google ya?
+Tapi kenap bisanya terbatas ya, gk bsa di gunakan terus menerus
+Karena memang buat latihan AI aja, sama karena banyak yang pake juga
+Kalau Dimasukan ke robot gimana tuh
+Tapi ko saya gak bisa akses chatGPT itu y?
+Waaaa..
+Biasa saja karena tidak bisa menjawab pemenang piala dunia 2022
+belum Doc, itu masih belum selebai itu
+cheatGPT
+age of ultron
+Trernak lele jualan nasi uduk bntr lagi make robot. Hehehe
+Bagaimana cara mendownload chatGPT ke smart phone ???
+Beli
+Takutnya hal ini cuma fomo aja, alias cuma trend sesaat
+Kan dia lagi demo
+"you've been warned
+see you 10 years later"
+Peradaban terakhir
+Jarvis real life
+Nanti diadu dengan Lamdanya Google
+makin kesini makin kesana
+Awal Dari Transformers
+Chatgpt jelek, ngak usah dibahas. Ngak bisa menebak kejadian yg akan datang jadi chatgpt jelek lah.
+Cara dptkan nyq ?
+Katanya mau diblokir keminfo
+7:18 so you are terminator terminator?
+Chatgpt sedang error jam 8 tgl2feb
+Terminator era
+Lebih tepatnya calculator otak kanan
+tenang chatgpt gk bisa copas hahaha
+Apakah ada chatMBR?
+Ngahngahngah....
+Gassss
+Perang AI
+Profesor indonesia bikin apa???
+Gw : SKRIPSIII
+"Universal basic income...
+ehem.. ehem...
+batuk batuk"
+UBI itu aman kok... ehem.. ehem.. batuk batuk 
+Gampang terdisrupsi dengan para kapitalis. Bisa jadi benefitnya dicabut
+Damnnn
+Antara seru dan seram
+rendernya udh capek dok, hhe
+Ustad dan pendeta bakal punah oleh AI. Wadidawww....
+ wwaaww
+Dan sekarang lagi down
+lama2 nanti seperti jarvis
+Ini berbayar ya?
+Chatgpt? Gratis
+Chatgpt bisa ngak bantu panjat pohon kelapa saya butuh santan ni ,saya mau masak ?
+Dejavu SkyNet
+"ChatGPT bisa ngomong?
+https://youtu.be/CgEFj5-LgmI"
+chatGPT juga rasis lho wkwkw
+Blog.er lenyap? 
+"Apa kabar joki Jurnal?
+wkkwkwkwkwkwk"
+bisa minta tolong petik kelapa gak...
+Gawe hp bisa gak
+Tapi masih bodo, saya tanya nama ayahnya nabi adam gak tau? 
+Bang mukanya biasa aja bang, ah apa emang bawaan begitu?
+kalah mbah google....
+Nah ini
+Saya ngga paham blas
+Dr indra bsa ngoding ga ?
+t
+2015
+Pohara
+Dahsyat
